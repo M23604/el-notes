@@ -64,6 +64,7 @@ Yes compile all EL Stats you have here...
     │   │           A patent waiver on COVID vaccines is right and fair - Nature.pdf
     │   │           Access to and equitable distribution of COVID-19 vaccine in low-income countries.pdf
     │   │           Companies scramble to expand coronavirus vaccine supply - The Washington Post.pdf
+    │   │           Coronavirus vaccines -  expect delays - EIU.pdf
     │   │           Covid vaccines - Why a giant plastic bag shortage is slowing the rollout - BBC News.pdf
     │   │           Global Covid vaccine rollout threatened by shortage of vital components - The Guardian.pdf
     │   │           Health Care Workers Describe Chaos, Anger For Hospital COVID-19 Vaccine Rollout - NPR.pdf
