@@ -1,5 +1,5 @@
 # EL Notes
-Yes compile all EL Stats you have here...
+If you want, please compile all statistics and data you find in this repository. For EL4131. Additional articles are also appreciated.
 
 ## Directory Structure
 ```
