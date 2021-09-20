@@ -18,9 +18,18 @@
 
 ## Quotes
 
+### Big Tech
+
+- The National Security Agency of America and its British Counterpart hacked information from customers of Google, Yahoo among others, without the companies' knowledges.
+
 ### Cancel Culture
 - "Canceling is a way to acknowledge that you don’t have to have the power to change
 structural inequality, You don’t even have to have the power to change all of public sentiment. But as an individual, you can still have power beyond measure." ~ Charity Hudley
+
+### AI
+
+- An AI chatbot developed in South Korea named Luda Lee, initially popular for its cheerful disposition and ability to talk like a human being, quickly became the source of controversy after it made inappropriate comments regarding women's rights, lesbianism and disability, joining a long list of such chatbots infamous for their polarising opinions, including Microsoft's Tay and China's BabyQ. The company behind it was also sued for disseminating personal information of the users.
+- Research done by the University of Montreal suggests that AI has better clinical decision making capability than do humans, but generally in a more secondary sense, i.e. in the form of a second opinion.
 
 ## Examples
 
