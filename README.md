@@ -72,7 +72,8 @@ If you want, please compile all statistics and data you find in this repository.
     │   └── Ethics
     │       ├── Autonomous Vehicles
     │       │   ├── A Study on Driverless-Car Ethics Offers a Troubling Look Into Our Values - The New Yorker
-    │       │   └── Dangerously trending - Driverless Tesla videos on social media - The Straits Times
+    │       │   ├── Dangerously trending - Driverless Tesla videos on social media - The Straits Times
+    │       │   └── Self-driving car dilemmas reveal that moral choices are not universal - Nature
     │       ├── Gene Editing
     │       │   ├── After the Nobel, what next for Crispr gene-editing therapies - The Guardian
     │       │   ├── Chinese scientist who edited babies' genes jailed for three years - The Guardian
@@ -86,31 +87,17 @@ If you want, please compile all statistics and data you find in this repository.
         ├── AI
         │   ├── 1 in 2 companies in Singapore has sped up AI roll-out in the wake of Covid-19 - The Straits Times
         │   ├── AI can make better clinical decisions than humans - ScienceDaily
+        │   ├── AI can read your emotions. Should it - The Guardian
         │   ├── AI sans ethics can endanger everyone - The Straits Times
+        │   ├── Amazon's Echo May Be Able to Read Your Emotions - The Atlantic
+        │   ├── Confidence to face an AI-dominated future requires preparing Singaporeans for jobs not yet created - CNA
         │   ├── Controversy over AI chatbot in South Korea raises questions about ethics - The Straits Times
         │   ├── Moving AI ethics beyond guidelines - The Straits Times
-        │   └── Singapore, the AI capital of the world - The Straits Times
+        │   ├── Singapore, the AI capital of the world - The Straits Times
+        │   └── To what extent is artificial intelligence replacing the role of humans.m
         ├── Big Tech
         │   ├── A Global Tipping Point for Reining In Tech Has Arrived - The New York Times
         │   ├── Bill restricting police use of TraceTogether data introduced in Parliament, with tougher penalties for misuse - CNA
-        │   ├── Facebook Ban On Donald Trump Will Hold, Social Network's Oversight Board Rules - NPR
-        │   ├── Facebook emphasises safety commitment in the wake of Trump social media ban - The Straits Times
-        │   ├── Govt made mistake by not being upfront about TraceTogether data use; people accept explanation - PM Lee - The Straits Times
-        │   ├── How Tech Won the Pandemic and Now May Never Lose - The New York Times
-        │   ├── In Silicon Valley, Criminal Prosecutors See No Evil - The New York Times
-        │   ├── Millions Flock to Telegram and Signal as Fears Grow Over Big Tech - The New York Times
-        │   ├── The silencing of Trump has highlighted the authoritarian power of tech giants - The Guardian
-        │   ├── The Spying That Changed Big Tech - The New York Times
-        │   ├── Twitter and Facebook Barred Trump. China Is on His Side. - The New York Times
-        │   └── Twitter's Ban on Trump Shows Where Power Now Lies - The New York Times
-        ├── High score, low pay - why the gig economy loves gamification - The Guardian
-        ├── Study highlights pitfalls associated with 'cybervetting' job candidates - ScienceDaily
-        ├── Theranos
-        │   ├── Elizabeth Holmes - Has the Theranos scandal changed Silicon Valley - BBC News
-        │   ├── The Elizabeth Holmes Trial Is a Wake-Up Call for Sexism in Tech - The New York Times
-        │   ├── Theranos scandal - Who is Elizabeth Holmes and why is she on trial - BBC News
-        │   └── Theranos’s Fraud Tested the Limits of the Disruption Tale - The New York Times
-        └── Youth
-            ├── Less passive screen time, more structure better for kids' mental health during pandemic - ScienceDaily
-            └── Young teens should only use recreational internet and video games one hour daily - ScienceDaily
+        │   ├── Facebook Ban On Donald Trump Will Hold, Social Network's Oversight Board Rules - NPR                                                            │   ├── Facebook emphasises safety commitment in the wake of Trump social media ban - The Straits Times                                           1 # EL Notes
+        │   ├── Govt made mistake by not being upfront about TraceTogether data use; people accept explanation - PM Lee - The Straits Times                     │   ├── How Tech Won the Pandemic and Now May Never Lose - The New York Times                                                                           │   ├── In Silicon Valley, Criminal Prosecutors See No Evil - The New York Times                                                                        │   ├── Millions Flock to Telegram and Signal as Fears Grow Over Big Tech - The New York Times                                                          │   ├── The silencing of Trump has highlighted the authoritarian power of tech giants - The Guardian                                                    │   ├── The Spying That Changed Big Tech - The New York Times               │   ├── Twitter and Facebook Barred Trump. China Is on His Side. - The New York Times                                                                   │   └── Twitter's Ban on Trump Shows Where Power Now Lies - The New York Times                                                                          ├── High score, low pay - why the gig economy loves gamification - The Guardian                                                                         ├── Study highlights pitfalls associated with 'cybervetting' job candidates - ScienceDaily                                                              ├── Theranos                                                                │   ├── Elizabeth Holmes - Has the Theranos scandal changed Silicon Valley - BBC News                                                                   │   ├── The Elizabeth Holmes Trial Is a Wake-Up Call for Sexism in Tech - The New York Times                                                            │   ├── Theranos scandal - Who is Elizabeth Holmes and why is she on trial - BBC News                                                                   │   └── Theranos’s Fraud Tested the Limits of the Disruption Tale - The New York Times                                                                  └── Youth                                                                       ├── Less passive screen time, more structure better for kids' mental health during pandemic - ScienceDaily                                              └── Young teens should only use recreational internet and video games one hour daily - ScienceDaily 
 ```
