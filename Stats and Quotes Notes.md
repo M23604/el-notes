@@ -29,6 +29,13 @@ structural inequality, You don’t even have to have the power to change all of 
 
 ## Stats
 
+### Big Tech and Big Data
+- 80% of people have TraceTogether, reducing contact tracing from 4 days to 1.5 days
+<br>&emsp;  Article: `CNA` - `Bill restricting police use of TraceTogether data introduced in
+Parliament, with tougher penalties for misuse`
+<br>&emsp;  Source: `Smart Nation and Digital Government Group (SNDGG) Singapore`
+<br>&emsp;  Notes: ``
+
 ### Youth
 - Children who used the internet, social media or video games for entertainment ≥4 hours daily were 4x more likely to skip school.
 <br>&emsp;  Source: `Rutgers University analysing China Education Panel Survey`
