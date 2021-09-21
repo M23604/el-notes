@@ -88,6 +88,7 @@
 ### AI
 
 - _Theory of Affordance_: a term coined by psychologist James J. Gibson. It states that when intelligent beings look at the world they perceive not simply objects and their relationships but also their *possibilities*. Eg, when we sit on a chair, the chair "affords" the possibility of sitting, whereas the same cannot be said about water, which instead "affords" the possibility of drinking or swimming in.
+- _The Coded Gaze_: Defined by MIT grad student Joy Buolamwini as the bias in machine learning systems that involve lower accuracy for individuals of different skin tones and genders.
 
 ## Quotes
 ### Cancel Culture
@@ -153,10 +154,14 @@
 - Combined stock market valuation of Apple, Alphabet, Nvidia, Tesla, Microsoft, Amazon and Facebook (i.e FAAMG + Nvidia + Tesla) is $3.4 trillion in 2020. 
 <br>&emsp;  Article: `CNBC` - `Tech’s top seven companies added $3.4 trillion in value in 2020`
 <br>&emsp;  Notes: `Cannot figure out if they gained $3.4 trillion total or valued $3.4 trillion total`
-
 - 80% of people have TraceTogether, reducing contact tracing from 4 days to 1.5 days
 <br>&emsp;  Article: `CNA` - `Bill restricting police use of TraceTogether data introduced in Parliament, with tougher penalties for misuse`
 <br>&emsp;  Source: `Smart Nation and Digital Government Group (SNDGG) Singapore`
+
+### Surveillance
+
+- Ten of 24 US Governmental agencies surveyed plan to broaden their use of facial recognition systems by 2023, while eighteen of 24 currently use some form of the technology, according to an August 2021 report by the US Government Accountability Office (GAO).
+- [Facial recognition has proved to be less accurate on people with darker skin](https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212), women, and younger and older people,  according to a 2018 paper presented by MIT and Stanford University researchers. This was due to the fact that dataset used to assess its performance was more than 77 percent male and more than 83 percent white. Leading to a disparity of nearly 46% for some individuals.
 
 ### Morals and Ethics
 
@@ -180,6 +185,10 @@
 - Singaporeans accounted for about 35 per cent of tech jobs, and 35 per cent of net tech jobs created in the past five years in banking and finance.
 <br>&emsp;  Article: `NTU Business` - [`What is stopping more Singaporeans from taking up tech jobs?`](https://www.ntu.edu.sg/business/news-events/news/story-detail/what-is-stopping-more-singaporeans-from-taking-up-tech-jobs)
 <br>&emsp;  Source: `Monetary Authority of Singapore (MAS)`
+- There appears to be a general lack of students graduating with degrees in Computer Science-related fields, with only 2,800 such graduates every year, compared to the demand of nearly 60,000 needed by 2023, according to Dr Vivian Balakrishnan, Minister-in-charge of the Smart Nation Initiative.
+- The labour shortage by 2030 could cost Singapore nearly 39.2 billion SGD, which is very undesirable for the city state, since it could possibly account for 21 percent of Singapore’s projected economy by then.
+- Only a third of the technological workforce in the financial sector is made of Singaporeans
+
 # Prejudice and Discrimination
 
 ## Definitions
@@ -192,6 +201,13 @@
 
 - Women and early-career academics are more likely to feel like impostors in an academic discipline perceived to require raw talent for success.
 <br>&emsp;  Source: `New York University 2021 Study`
+
+### Women in Tech
+
+- A report by Microsoft found that more than 50% of young females are in fact interested in working in the STEM sector.
+- Only 58% of females Singaporeans, after pursuing a degree in STEM, go on to STEM-related careers.
+- According to the UNESCO Institute for Statistics, less that 30 percent of the world’s researchers are female.
+- Most women drop off the register of professional engineers before the age of 45.
 
 
 # Crime and Punishment
