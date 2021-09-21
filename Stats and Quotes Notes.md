@@ -51,7 +51,6 @@
 ### COVID-19 Vaccination
 
 - high-income economies with around 16% of the world's population have secured over 70% of 5 major vaccine doses for 2021
-
 <br>&emsp;  Source: `Challenges in ensuring global access to COVID-19 vaccines: production, affordability, allocation, and deployment`
 <br>&emsp;  Notes: `Research paper on theLancet, found on Fortune. Both are not so well known sources`
 
@@ -135,6 +134,20 @@
 
 ## Stats
 
+### Autonomous Vehicles
+
+- 9.1 crashes per million miles driven for self-driving cars, compared with 4.1 crashes per million miles for conventional vehicles.
+<br>&emsp;  Source: `University of Michigan’s Transportation Research Institute`
+<br>&emsp;  Notes: `Using crash stats from US National Highway Traffic Safety Administration`
+
+- Autonomous vehicles cause 0.36 injuries per crash, compared with 0.25 for conventional vehicles.
+<br>&emsp;  Source: `University of Michigan’s Transportation Research Institute`
+<br>&emsp;  Notes: `Using crash stats from US National Highway Traffic Safety Administration`
+
+- Self-driving cars are not responsible for any accidents
+<br>&emsp;  Source: `University of Michigan’s Transportation Research Institute`
+<br>&emsp;  Notes: `Using crash stats from US National Highway Traffic Safety Administration`
+
 ### Big Tech and Big Data
 
 - Combined stock market valuation of Apple, Alphabet, Nvidia, Tesla, Microsoft, Amazon and Facebook (i.e FAAMG + Nvidia + Tesla) is $3.4 trillion in 2020. 
@@ -151,7 +164,6 @@
 <br>&emsp;  Article: `technlogyreview.com` - [`A horrifying new AI app swaps women into porn videos with a click`](https://www.technologyreview.com/2021/09/13/1035449/ai-deepfake-app-face-swaps-women-into-porn/)
 <br>&emsp;  Source: `research company Sensity AI`
 <br>&emsp;  Notes: `IT IS AN ESTIMATION!!`
-
 
 ### Youth
 
