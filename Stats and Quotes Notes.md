@@ -48,6 +48,20 @@
 
 ## Stats
 
+### COVID-19 Vaccination
+
+- high-income economies with around 16% of the world's population have secured over 70% of 5 major vaccine doses for 2021
+
+<br>&emsp;  Source: `Challenges in ensuring global access to COVID-19 vaccines: production, affordability, allocation, and deployment`
+<br>&emsp;  Notes: `Research paper on theLancet, found on Fortune. Both are not so well known sources`
+
+- Covax has pledged to send 200 million vaccine shots to some 92 countries.  However only 30 million has been received.
+<br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
+
+- Serum's CEO, Adar Poonawalla, pledged 400 million doses for low and middle-income countries by the end of 2020. As of Jan 2021, only 70 million shots were manufactured.
+<br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
+<br>&emsp;  Notes: `Mr Poonawalla mentions that the company is uncertain about when it would receive a licence from India and did not have enough warehouse space.`
+
 # Technology
 
 ## Definitions
@@ -87,7 +101,6 @@
 
 - The National Security Agency of America and its British Counterpart hacked information from customers of Google, Yahoo among others, without the companies' knowledges.
   - Classified as "surveillance", since the data was used as a form of targeted monitoring to triangulate individuals based on the others' relative positions in order to identify potential threats.
-- 
 
 ### Cancel Culture
 
