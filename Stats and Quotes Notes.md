@@ -62,6 +62,13 @@
 <br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
 <br>&emsp;  Notes: `Mr Poonawalla mentions that the company is uncertain about when it would receive a licence from India and did not have enough warehouse space.`
 
+### Sexism
+
+- 58% of Women with STEM Degree have STEM Jobs, 70% of men with STEM Degree have STEM jobs
+<br>&emsp;  Source: `Study by Nanyang Technological University`
+<br>&emsp;  Notes: `Dataset of 738 Singaporeans`
+
+
 # Technology
 
 ## Definitions
