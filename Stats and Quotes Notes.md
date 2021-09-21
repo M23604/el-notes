@@ -145,7 +145,9 @@
 
 ### Tech Talent Crunch
 
-- 2500 - 3500 tech jobs created per year
+- Singaporeans accounted for about 35 per cent of tech jobs, and 35 per cent of net tech jobs created in the past five years in banking and finance.
+<br>&emsp;  Article: `NTU Business` - [`What is stopping more Singaporeans from taking up tech jobs?`](https://www.ntu.edu.sg/business/news-events/news/story-detail/what-is-stopping-more-singaporeans-from-taking-up-tech-jobs)
+<br>&emsp;  Source: `Monetary Authority of Singapore (MAS)`
 # Prejudice and Discrimination
 
 ## Definitions
