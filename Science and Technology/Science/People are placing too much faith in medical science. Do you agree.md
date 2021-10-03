@@ -1,3 +1,7 @@
+
+---
+title: People are placing too much faith in medical science. Do you agree
+---
 # "People are placing too much faith in medical science." Do you agree?
 
 Source: https://www.theknowledgeloft.com/gp-essays/gp-essay-18-people-are-placing-too-much-faith-in-medical-science-do-you-agree/

@@ -1,3 +1,7 @@
+
+---
+title: To what extent is artificial intelligence replacing the role of humans
+---
 # To what extent is artificial intelligence replacing the role of humans?
 
 To a limited extent.

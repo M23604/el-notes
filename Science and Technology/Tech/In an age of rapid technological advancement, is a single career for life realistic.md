@@ -1,3 +1,7 @@
+
+---
+title: In an age of rapid technological advancement, is a single career for life realistic
+---
 # In an age of rapid technological advancement, is a single career for life realistic?
 
 Source: https://www.theknowledgeloft.com/gp-essays/gp-essay-38-in-an-age-of-rapid-technological-advancement-is-a-single-career-for-life-realistic/

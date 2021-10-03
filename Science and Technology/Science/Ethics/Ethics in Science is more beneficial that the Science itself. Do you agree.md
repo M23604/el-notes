@@ -1,3 +1,7 @@
+
+---
+title: Ethics in Science is more beneficial that the Science itself. Do you agree
+---
 # "Ethics in Science is more beneficial that the Science itself." Do you agree?
 
 Question Analysis:

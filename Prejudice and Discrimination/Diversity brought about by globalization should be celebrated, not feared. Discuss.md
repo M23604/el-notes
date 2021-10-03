@@ -1,3 +1,7 @@
+
+---
+title: Diversity brought about by globalization should be celebrated, not feared. Discuss
+---
 # "Diversity brought about by globalization should be celebrated, not feared." Discuss.
 
 Source: https://www.theknowledgeloft.com/gp-essays/diversity-brought-about-by-globalization-should-be-celebrated-not-feared-discuss-gp-essay-4/

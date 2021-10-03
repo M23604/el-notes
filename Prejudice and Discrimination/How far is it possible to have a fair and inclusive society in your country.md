@@ -1,3 +1,7 @@
+
+---
+title: How far is it possible to have a fair and inclusive society in your country
+---
 # How far is it possible to have a fair and inclusive society in your country?
 
 Source: https://www.theknowledgeloft.com/gp-essays/gp-essay-22-how-far-is-it-possible-to-have-a-fair-and-inclusive-society-in-your-country/

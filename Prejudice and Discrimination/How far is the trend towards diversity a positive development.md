@@ -1,3 +1,7 @@
+
+---
+title: How far is the trend towards diversity a positive development
+---
 # How far is the trend towards diversity a positive development?
 
 Source: https://www.theknowledgeloft.com/gp-essays/gp-essay-13-how-far-is-the-trend-towards-diversity-a-positive-development/

@@ -1,3 +1,7 @@
+
+---
+title: As science advances, the human race regresses. Is this a fair comment
+---
 # "As science advances, the human race regresses." Is this a fair comment?
 
 Source: https://www.theknowledgeloft.com/gp-essays/gp-essay-24-as-science-advances-the-human-race-regresses-is-this-a-fair-comment/

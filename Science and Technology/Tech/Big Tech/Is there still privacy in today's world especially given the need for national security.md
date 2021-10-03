@@ -1,3 +1,7 @@
+
+---
+title: Is there still privacy in today's world especially given the need for national security
+---
 # Is there still privacy in today's world especially given the need for national security?
 
 Source: https://www.theknowledgeloft.com/gp-essays/gp-essay-45-is-there-still-privacy-in-todays-world-especially-given-the-need-for-national-security/ 

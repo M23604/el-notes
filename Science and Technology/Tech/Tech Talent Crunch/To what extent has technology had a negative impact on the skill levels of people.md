@@ -1,3 +1,7 @@
+
+---
+title: To what extent has technology had a negative impact on the skill levels of people
+---
 # To what extent has technology had a negative impact on the skill levels of people?
 
 Source: https://www.theknowledgeloft.com/gp-essays/gp-essay-21-to-what-extent-has-technology-had-a-negative-impact-on-the-skill-levels-of-people/

@@ -1,3 +1,7 @@
+
+---
+title: Entertainment, not truth, is the priority of the media today, Comment
+---
 # "Entertainment, not truth, is the priority of the media today," Comment.
 
 Source: https://www.theknowledgeloft.com/gp-essays/gp-essay-11-entertainment-not-truth-is-the-priority-of-the-media-today-comment/

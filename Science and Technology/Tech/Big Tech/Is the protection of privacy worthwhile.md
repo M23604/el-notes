@@ -1,3 +1,7 @@
+
+---
+title: Is the protection of privacy worthwhile
+---
 # Is the protection of privacy worthwhile?
 
 Source: https://www.theknowledgeloft.com/gp-essays/is-the-protection-of-privacy-worthwhilegp-essay-5/

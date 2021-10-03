@@ -1,3 +1,7 @@
+
+---
+title: Social Media divides more than it unites. To what extent is this true
+---
 # "Social Media divides more than it unites." To what extent is this true?
 
 Source: https://www.theknowledgeloft.com/gp-essays/gp-essay-23-social-media-divides-more-than-it-unites-to-what-extent-is-this-true/

@@ -1,3 +1,7 @@
+
+---
+title: Technology should only be tolerated in so far as it aids the human condition - To what extent do you agree
+---
 # "Technology should only be tolerated in so far as it aids the human condition." To what extent do you agree?
 
 Question Analysis:

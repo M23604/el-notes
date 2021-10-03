@@ -1,3 +1,7 @@
+
+---
+title: The danger of modern science is that instead of teaching mankind humility, it has made us supremely arrogant
+---
 # "The danger of modern science is that instead of teaching mankind humility, it has made us supremely arrogant." Comment.
 
 In his bestselling book ‘Homo Deus: A Brief History of Tomorrow’, Professor Yuval Noah Harari commented that “during the Agricultural Revolution, humankind silenced animals and plants, and turned the animist grand opera into a dialogue between man and gods. During the Scientific Revolution, humankind silenced the gods too.” In fact, the very premise of Harari’s seemingly outlandish claims is that modern science has made men gods; although the best and the brightest understand that scientific research simply reflects the inadequacy of human knowledge, the accessibility and transformative power of modern science has granted us an immeasurable amount of power which we are wont to abuse. This power manifests itself in terms of the ability to control fellow human beings, manipulate the biological building blocks of life, and decide the fate of all other forms of life on this planet, all of which we are already doing with impunity.

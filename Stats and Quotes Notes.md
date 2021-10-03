@@ -1,3 +1,8 @@
+
+---
+title: Stats and Quotes Notes
+---
+
 <font size = 16><u>**Table of Contents**</u></font>
 
 - [Science](#science)
@@ -80,7 +85,7 @@
 
 - "Big Tech": Refers to FAAMG: Facebook, Apple, Amazon, Microsoft and Google + a bunch of other companies (eg Netflix, Nvidia)
     - Big companies that have technology of mass public usage, and have a big market share.
-- "Surveillance": Either specifically highly targeted or aimless but covert monitoring of individuals, whether it be through audiovisual data collection or 
+- "Surveillance": Either specifically highly targeted or aimless but covert monitoring of individuals, whether it be through audiovisual data collection or
     - "CCTV": inherent yet embraced form of surveillance in public spaces, less disconcerting
     - "Online tracking": Infringement of rights in the form of sharing of data to other sources (very concerning)
 - "Data Collection": Collection of data for mass usage, eg MOST cookies, data stored on websites - Data is not distributed to alternative areas
@@ -151,7 +156,7 @@
 
 ### Big Tech and Big Data
 
-- Combined stock market valuation of Apple, Alphabet, Nvidia, Tesla, Microsoft, Amazon and Facebook (i.e FAAMG + Nvidia + Tesla) is $3.4 trillion in 2020. 
+- Combined stock market valuation of Apple, Alphabet, Nvidia, Tesla, Microsoft, Amazon and Facebook (i.e FAAMG + Nvidia + Tesla) is $3.4 trillion in 2020.
 <br>&emsp;  Article: `CNBC` - `Tech’s top seven companies added $3.4 trillion in value in 2020`
 <br>&emsp;  Notes: `Cannot figure out if they gained $3.4 trillion total or valued $3.4 trillion total`
 - 80% of people have TraceTogether, reducing contact tracing from 4 days to 1.5 days
@@ -219,4 +224,3 @@
 ## Examples
 
 ## Stats
-
