@@ -63,7 +63,7 @@ def index():
         with open(os.path.join(folder,'_index.md'),'w') as fp:
             fp.write(f"""
 ---
-title:{os.path.basename(folder)}
+title: {os.path.basename(folder)}
 ---
 """)
     return
