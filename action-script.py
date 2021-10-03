@@ -82,7 +82,7 @@ If you want, please compile all statistics and data you find in this repository.
 {struct}
 ```
 """)
-    with open('tree.txt','w';) as fp:
+    with open('tree.txt','w') as fp:
         fp.write(struct)
 
 main()
