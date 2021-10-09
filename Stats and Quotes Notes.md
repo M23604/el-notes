@@ -60,7 +60,7 @@ title: Stats and Quotes Notes
 <br>&emsp;  Notes: `Research paper on theLancet, found on Fortune. Both are not so well known sources`
 
 - Covax has pledged to send 200 million vaccine shots to some 92 countries.  However only 30 million has been received.
-<br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
+
 
 - Serum's CEO, Adar Poonawalla, pledged 400 million doses for low and middle-income countries by the end of 2020. As of Jan 2021, only 70 million shots were manufactured.
 <br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
@@ -132,7 +132,25 @@ title: Stats and Quotes Notes
 
 - Baidu's Xiaodu is an all-inclusive technology to aid an oncoming "Silver Tsunami", providing many crucial services like access to emergency care and emotional support.
 
-- help.
+- AI algorithms developed by Big Tech and integrated into commerical and consumer products which drive the daily function of workplaces and people's lifestyles such as Google's search engine may gain more affordance than it should. Gebru Timnit, a researcher at Google's AI labs, grew wary of how quickly such technology were deployed and gaining dominance, and had criticise how black box language models developed by Google and competitors such as Microsoft's GPT-3, may for instance be trained on abusive language of the internet and develop biases yet elbow out promising alternatives, and later cause the future of AI technology to be built on shaky foundations... (List examples from other sections; e.g. coded gaze, stanford facial recognition; google's featured snippets).
+
+- Use of AI in courts: see Science and Technology/Tech/AI/AI in courts.
+  - Example: Advisory AI: Civil Resolution Tribunal (CRT) in British Columbia, Canada for disputes relating to subsidised housing. Predictive AI: Correctional Offender Management Profiling for Alternative Sanctions for predicting recidivism, has been known to overestimate recidivism among African American defendants compared to Caucasian Americans (though this may be natural consequence of greater concentrations of black felons in some areas), judges using the tool detain people more than before although it was intended to suade judges towards the opposite outcome.
+  - This human control was an issue in the Loomis case, before the Supreme Court of Wisconsin.16 At stake were: (1) whether the use of the result of a risk assessment by an instrument such as COMPAS, where the operation is a business secret, violates the defendant’s right to a fair trial because the secret operation deprives a defendant of the opportunity to test the accuracy and scientific value of the risk assessment, and (2) whether it violates the right to a fair trial to rely on such a risk assessment because it includes gender and race in the assessment of the risk of recurrence. The Wisconsin Supreme Court dismissed Loomis’ objections, but said that the judge should give reasons as to how he or she uses COMPAS. The case was referred to the Supreme Court of the United States, which decided not to hear the case.
+  - Pros: Reduced Recidivism, streamlines process and makes it more accessible (cheaper and faster), possibly reduce bias of human jurors (more for felonies since human jurors are supposed to be competent), cases like divorce and employment contract terminations are predictable and the job of a court proceeding is often merely to check all the terms are fulfilled.
+  - Cons: In the US, predictive tools are offered commericially and workings are thus business secrets.
+
+- Ethical Principles (mostly pertaining to previous point): Outlined by The Commission for the Efficiency of Justice (CEPEJ) of the Council of Europe:
+  1. Respect for fundamental rights. Ensure that design and implementation of AI services and tools are compatible with fundamental rights such as privacy, equal treatment and fair trial.
+  2. Equal treatment. Avoid discrimination between individuals and groups of individuals. The example of COMPAS above shows that discrimination and unjustified distinction between individuals and groups, is a real risk. The data used by the algorithm may be the cause, and the prejudice may also be embedded in the algorithm itself.
+  3. Data security. When processing judicial decisions and data, certified sources and data that cannot be altered should be used, with models that are multidisciplinary in design, in a secure technological environment.
+  4. Transparency. Data processing methods should be made transparent and comprehensible, and external audits should be allowed. The requirement of transparency is now established case law. The user of an algorithm must make public the choices made, and the data and assumptions used, in a complete, timely and appropriate manner so that these choices, data and assumptions are accessible to third parties. Such full, timely and appropriate disclosure should make it possible to assess the choices made and the data, reasoning and assumptions used, so as to ensure effective legal protection against decisions based on those choices, data, reasoning and assumptions, with the possibility of judicial review by the courts.
+  5.  AI under user control. The algorithm may not be used as a prescription, i.e. the computer does not prescribe anything and cannot decide by itself. Users must know and understand what the AI does, and the users must be in control of the choices they make. This means that users must be able to deviate from the outcome of the algorithm without difficulty.
+
+- What can happen when IT is blindly relied upon is shown by an example from the courts in the United Kingdom.18 There, a relatively simple piece of IT determines the financial capacity of (ex)-spouses in maintenance proceedings. The parties fill in a PDF form, and the IT calculates the resulting capacity. Due to a small mistake, which went unnoticed, incorrect calculations were made in 3,638 cases between April 2011 and January 2012, and between April 2014 and December 2015. Debts, instead of being deducted, had been added to the assets, so the assets taken into account were too high. In cases that were still pending, this could still be corrected. However, incorrect decisions were issued, and presumably complied with, in more than 2,200 cases.
+
+<br>&emsp;  Source: [`https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/`](https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/) (MIT Technology Review on Timnit Gebru's sacking, 14th June 2021)
+
 
 #### Autonomous Vehicles
 
