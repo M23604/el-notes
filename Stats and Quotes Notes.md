@@ -10,6 +10,8 @@ title: Stats and Quotes Notes
   - [Quotes](#quotes)
   - [Examples](#examples)
   - [Stats](#stats)
+    - [COVID-19 Vaccination](#covid-19-vaccination)
+    - [Sexism](#sexism)
 - [Technology](#technology)
   - [Definitions](#definitions-1)
     - [Cancel Culture](#cancel-culture)
@@ -24,7 +26,9 @@ title: Stats and Quotes Notes
     - [AI](#ai-1)
       - [Autonomous Vehicles](#autonomous-vehicles)
   - [Stats](#stats-1)
+    - [Autonomous Vehicles](#autonomous-vehicles-1)
     - [Big Tech and Big Data](#big-tech-and-big-data)
+    - [Surveillance](#surveillance)
     - [Morals and Ethics](#morals-and-ethics-1)
     - [Youth](#youth)
     - [Tech Talent Crunch](#tech-talent-crunch)
@@ -33,6 +37,7 @@ title: Stats and Quotes Notes
   - [Quotes](#quotes-2)
   - [Examples](#examples-2)
   - [Stats](#stats-2)
+    - [Women in Tech](#women-in-tech)
 - [Crime and Punishment](#crime-and-punishment)
   - [Definitions](#definitions-3)
   - [Quotes](#quotes-3)
@@ -60,7 +65,7 @@ title: Stats and Quotes Notes
 <br>&emsp;  Notes: `Research paper on theLancet, found on Fortune. Both are not so well known sources`
 
 - Covax has pledged to send 200 million vaccine shots to some 92 countries.  However only 30 million has been received.
-
+<br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
 
 - Serum's CEO, Adar Poonawalla, pledged 400 million doses for low and middle-income countries by the end of 2020. As of Jan 2021, only 70 million shots were manufactured.
 <br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
