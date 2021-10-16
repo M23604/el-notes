@@ -28,6 +28,7 @@ title: Stats and Quotes Notes
   - [Stats](#stats-1)
     - [Autonomous Vehicles](#autonomous-vehicles-1)
     - [Big Tech and Big Data](#big-tech-and-big-data)
+    - [Cancel Culture](#cancel-culture-3)
     - [Surveillance](#surveillance)
     - [Morals and Ethics](#morals-and-ethics-1)
     - [Youth](#youth)
@@ -185,6 +186,15 @@ title: Stats and Quotes Notes
 - 80% of people have TraceTogether, reducing contact tracing from 4 days to 1.5 days
 <br>&emsp;  Article: `CNA` - `Bill restricting police use of TraceTogether data introduced in Parliament, with tougher penalties for misuse`
 <br>&emsp;  Source: `Smart Nation and Digital Government Group (SNDGG) Singapore`
+
+### Cancel Culture
+- More than 90% of the doxed files included the victim's address,  61% included a phone number, and 53% included an email address. 
+<br>&emsp;  Source: [`2017 NYU` - `First large-scale doxing study reveals motivations and targets for cyber bullying`](https://www.sciencedaily.com/releases/2017/11/171107122918.htm)
+<br>&emsp;  Notes: `Over 5500 files of doxxing, implies over 5500 cases of doxxing as sample size`
+
+- 12% of the students acknowledged their engagement in doxing.
+<br>&emsp;  Article: [`Int J Environ Res Public Health` - `Doxing: What Adolescents Look for and Their Intentions`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6352099/)
+<br>&emsp;  Notes: `Survey of 2120 Hong Kong students`
 
 ### Surveillance
 
