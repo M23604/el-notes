@@ -148,6 +148,7 @@ title: Stats and Quotes Notes
 - Baidu's Xiaodu is an all-inclusive technology to aid an oncoming "Silver Tsunami", providing many crucial services like access to emergency care and emotional support.
 
 - AI algorithms developed by Big Tech and integrated into commerical and consumer products which drive the daily function of workplaces and people's lifestyles such as Google's search engine may gain more affordance than it should. Gebru Timnit, a researcher at Google's AI labs, grew wary of how quickly such technology were deployed and gaining dominance, and had criticise how black box language models developed by Google and competitors such as Microsoft's GPT-3, may for instance be trained on abusive language of the internet and develop biases yet elbow out promising alternatives, and later cause the future of AI technology to be built on shaky foundations... (List examples from other sections; e.g. coded gaze, stanford facial recognition; google's featured snippets).
+ - <br>&emsp;  Source: [`https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/`](https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/) (MIT Technology Review on Timnit Gebru's sacking, 14th June 2021)
 
 - Use of AI in courts: see Science and Technology/Tech/AI/AI in courts.
   - Example: Advisory AI: Civil Resolution Tribunal (CRT) in British Columbia, Canada for disputes relating to subsidised housing. Predictive AI: Correctional Offender Management Profiling for Alternative Sanctions for predicting recidivism, has been known to overestimate recidivism among African American defendants compared to Caucasian Americans (though this may be natural consequence of greater concentrations of black felons in some areas), judges using the tool detain people more than before although it was intended to suade judges towards the opposite outcome.
@@ -163,8 +164,6 @@ title: Stats and Quotes Notes
   5.  AI under user control. The algorithm may not be used as a prescription, i.e. the computer does not prescribe anything and cannot decide by itself. Users must know and understand what the AI does, and the users must be in control of the choices they make. This means that users must be able to deviate from the outcome of the algorithm without difficulty.
 
 - What can happen when IT is blindly relied upon is shown by an example from the courts in the United Kingdom.18 There, a relatively simple piece of IT determines the financial capacity of (ex)-spouses in maintenance proceedings. The parties fill in a PDF form, and the IT calculates the resulting capacity. Due to a small mistake, which went unnoticed, incorrect calculations were made in 3,638 cases between April 2011 and January 2012, and between April 2014 and December 2015. Debts, instead of being deducted, had been added to the assets, so the assets taken into account were too high. In cases that were still pending, this could still be corrected. However, incorrect decisions were issued, and presumably complied with, in more than 2,200 cases.
-
-<br>&emsp;  Source: [`https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/`](https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/) (MIT Technology Review on Timnit Gebru's sacking, 14th June 2021)
 
 
 #### Autonomous Vehicles
@@ -195,6 +194,11 @@ title: Stats and Quotes Notes
 - 80% of people have TraceTogether, reducing contact tracing from 4 days to 1.5 days
 <br>&emsp;  Article: `CNA` - `Bill restricting police use of TraceTogether data introduced in Parliament, with tougher penalties for misuse`
 <br>&emsp;  Source: `Smart Nation and Digital Government Group (SNDGG) Singapore`
+- [Free markets are creating a major free speech problem](https://www.slowboring.com/p/china-speech)
+  - Companies retroactively policing those who express dissent against China. Many such cases: John Cena calling Taiwan a country, LeBron James & Morey in solidarity with HK, Mercedes Benz quoting Dalai Lama. While individually the cases are not major, the opinions were expressed on english platforms (some banned in China like Twitter), towards english-speaking audiences.
+  - PNTR (Permanent Normal Trade Relations which promised US-Chinese economic integration) during Clinton administration was not only for economic growth, but also for the US to abet the liberaization of the human potential of the people with American values in society and trade. (socially and economically since China is communist and micromanages private industries unlike US). However, unexpectedly censorship was smuggled into the US as to be elaborated.
+  - Apple TV streaming service disallows any content which criticises or paints China as a villain. While reasonable to market to Chinese consumers, a blanket categorical ban on any such content should ring alarm bells, especially when considering news agencies are pro-profit (slight stretch).
+  - Big tech is ultimately pulling the strings of countries as diplomatic agents as for instance since the chinese depend on iCloud and other technologies and does not want to fall behind the west and America does not want to falter in its ambition of liberating Chinese or lose economic primacy. While US and China are playing a precarious game of Twister, Big Tech (In this case FAANG rather than BATX) is free to hold their services hostage and leverage what type of content they will distribute or sponsor, thus influencing mass media, which is a threat to democracy yada yada.
 
 ### Cancel Culture
 - More than 90% of the doxed files included the victim's address,  61% included a phone number, and 53% included an email address. 
@@ -209,6 +213,15 @@ title: Stats and Quotes Notes
 
 - Ten of 24 US Governmental agencies surveyed plan to broaden their use of facial recognition systems by 2023, while eighteen of 24 currently use some form of the technology, according to an August 2021 report by the US Government Accountability Office (GAO).
 - [Facial recognition has proved to be less accurate on people with darker skin](https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212), women, and younger and older people,  according to a 2018 paper presented by MIT and Stanford University researchers. This was due to the fact that dataset used to assess its performance was more than 77 percent male and more than 83 percent white. Leading to a disparity of nearly 46% for some individuals.
+- [Your face is not a barcode - Arguments against Facial Recognition Technology (2003)](https://pages.gseis.ucla.edu/faculty/agre/bar-code.html) Comprehensive list of arguments against the use of facial recognition and rebuttals of common arguments.
+  - Large potential by abuse by governments (e.g. China & Uyghers) or becoming compromised by hackers
+  - As opposed to other similar technologies like fingerprinting, facial recognition requires least cooperation from the individual as one can be identified in a crowd from afar. Thus it is quite open to attack vectors.
+  - Quite fallible to false positives and inaccuracies from poor lighting conditions e.g.
+  - Inefficient among all the false positives, i.e. 1 terrorist among 1000 false positives. Other measures may be preferable for such use-cases, despite scares pushing towards facial recognition post-9/11. 
+  - Hard to give effective notice, and gain proper consent. Adoption in public spaces such as government buildings or other institutions means it is a fait accompli that those uncomfortable with the technology have to accept. 
+  - Technology may not necessarily be only accessible and implemented by the government but also by businesses or district authorities, who may wittingly or unwittingly abuse the technology
+  - Sets a poor precedents as even if it is well-implemented by wealthier and democratic governments with respect for civil liberties, it may gain adoption among less enlightened governments. For instance, a report by The Conservation where some Chinese citizens were informally interviewed on their thoughts on the government's inexorable push for social surveillance systems believed the west also had similar concepts of social credit which China is justified to follow to catch up with other superpowers. They welcome the infringements of the civil liberties in favor of the public order solidified by such developments (May not necessarily be deluded, just differing culture). If the west must adopt facial recognition to protect the nation or safeguard their democracy, then the artificial 'Tian' watching over Chinese citizens or similar facsimilies that may prop up in other nations will only gain in prevalance and apparent signficance in protecting a nation's civil morals.
+- Facial recognition used to catch felons at a Superbowl in Tampa, Florida 2001
 
 ### Security
 
@@ -261,6 +274,14 @@ title: Stats and Quotes Notes
 - According to the UNESCO Institute for Statistics, less that 30 percent of the world’s researchers are female.
 - Most women drop off the register of professional engineers before the age of 45.
 
+### Meritocracy & Elitism
+
+- Harvard, Princeton, Stanford, Yale collectively enroll top 1% of income distribution than from households from bottom 60%
+- In US, 7 top banks and law firms recruit exclusively from elite colleges
+- In 2006 study by American University, 1% of children in bottom 20% of households will join top 5%.
+- Pew Research Centre: 60% of Republicans believe colleges and universities are bad for the US.
+- Burdening the rich is a non-sequitor to reducing inequality as severe income disparities cause the elite to become more competitive to hold onto their status, get a return on their investment in social capital (education, networking etc.), and provide similar resources to their children for succeeding their wealth and status.
+- **Elite Overproduction**: Coined by Peter Turchin, describing a phase of a complex society involving a bloated elite class, too few elite jobs, declining living standards among general population. [The Next Decade Could Be Even Worse](https://www.theatlantic.com/magazine/archive/2020/12/can-history-predict-future/616993/)
 
 # Crime and Punishment
 
