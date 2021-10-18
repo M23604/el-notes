@@ -9,9 +9,10 @@ title: Stats and Quotes Notes
   - [Definitions](#definitions)
   - [Quotes](#quotes)
   - [Examples](#examples)
+    - [Inequality and Discimination](#inequality-and-discimination)
   - [Stats](#stats)
     - [COVID-19 Vaccination](#covid-19-vaccination)
-    - [Sexism](#sexism)
+    - [Inequality and Discimination](#inequality-and-discimination-1)
 - [Technology](#technology)
   - [Definitions](#definitions-1)
     - [Cancel Culture](#cancel-culture)
@@ -41,6 +42,7 @@ title: Stats and Quotes Notes
   - [Examples](#examples-2)
   - [Stats](#stats-2)
     - [Women in Tech](#women-in-tech)
+    - [Meritocracy & Elitism](#meritocracy--elitism)
 - [Crime and Punishment](#crime-and-punishment)
   - [Definitions](#definitions-3)
   - [Quotes](#quotes-3)
@@ -58,6 +60,11 @@ title: Stats and Quotes Notes
 ## Quotes
 
 ## Examples
+### Inequality and Discimination
+
+- "Talking Books" the godfather of audiobooks was developed in 1930 in US for people who have impaired vision. Some hacked the system to increase reading speed, leading to audio time-stretching technology
+  - This shows disabilities driving developments
+  - They are key players not an afterthought in innovation
 
 ## Stats
 
@@ -74,12 +81,11 @@ title: Stats and Quotes Notes
 <br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
 <br>&emsp;  Notes: `Mr Poonawalla mentions that the company is uncertain about when it would receive a licence from India and did not have enough warehouse space.`
 
-### Sexism
+### Inequality and Discimination
 
 - 58% of Women with STEM Degree have STEM Jobs, 70% of men with STEM Degree have STEM jobs
 <br>&emsp;  Source: `Study by Nanyang Technological University`
 <br>&emsp;  Notes: `Dataset of 738 Singaporeans`
-
 
 # Technology
 
@@ -190,7 +196,6 @@ title: Stats and Quotes Notes
 
 - Combined stock market valuation of Apple, Alphabet, Nvidia, Tesla, Microsoft, Amazon and Facebook (i.e FAAMG + Nvidia + Tesla) is $3.4 trillion in 2020.
 <br>&emsp;  Article: `CNBC` - `Tech’s top seven companies added $3.4 trillion in value in 2020`
-<br>&emsp;  Notes: `Cannot figure out if they gained $3.4 trillion total or valued $3.4 trillion total`
 - 80% of people have TraceTogether, reducing contact tracing from 4 days to 1.5 days
 <br>&emsp;  Article: `CNA` - `Bill restricting police use of TraceTogether data introduced in Parliament, with tougher penalties for misuse`
 <br>&emsp;  Source: `Smart Nation and Digital Government Group (SNDGG) Singapore`
