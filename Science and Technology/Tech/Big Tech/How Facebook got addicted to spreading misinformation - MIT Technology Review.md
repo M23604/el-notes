@@ -5,7 +5,7 @@ Find the original article here: https://www.technologyreview.com/2021/03/11/1020
 
 ![Joaquin Quinonero Candela](https://wp.technologyreview.com/wp-content/uploads/2021/03/JoaquinQuinoneroCandela-316-square.jpg)
 
-Joaquin Quiñonero Candela, a director of AI at Facebook, was apologizing to his audience.
+<strong>Joaquin Quiñonero Candela</strong>, a director of AI at Facebook, was apologizing to his audience.
 
 It was March 23, 2018, just days after the revelation that Cambridge Analytica, a consultancy that worked on Donald Trump’s 2016 presidential election campaign, had surreptitiously siphoned the personal data of tens of millions of Americans from their Facebook accounts in an attempt to influence how they voted. It was the biggest privacy breach in Facebook’s history, and Quiñonero had been previously scheduled to speak at a conference on, among other things, “the intersection of AI, ethics, and privacy” at the company. He considered canceling, but after debating it with his communications director, he’d kept his allotted time.
 
