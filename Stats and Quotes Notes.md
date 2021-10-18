@@ -17,7 +17,7 @@ title: Stats and Quotes Notes
     - [Cancel Culture](#cancel-culture)
     - [Big Tech](#big-tech)
     - [AI](#ai)
-    - [Surveillence](#surveillence)
+    - [Surveillence and Security](#surveillence-and-security)
   - [Quotes](#quotes-1)
     - [Cancel Culture](#cancel-culture-1)
     - [Morals and Ethics](#morals-and-ethics)
@@ -94,17 +94,17 @@ title: Stats and Quotes Notes
 
 - "Big Tech": Refers to FAAMG: Facebook, Apple, Amazon, Microsoft and Google + a bunch of other companies (eg Netflix, Nvidia)
     - Big companies that have technology of mass public usage, and have a big market share.
-- "Surveillance": Either specifically highly targeted or aimless but covert monitoring of individuals, whether it be through audiovisual data collection or
-    - "CCTV": inherent yet embraced form of surveillance in public spaces, less disconcerting
-    - "Online tracking": Infringement of rights in the form of sharing of data to other sources (very concerning)
 - "Data Collection": Collection of data for mass usage, eg MOST cookies, data stored on websites - Data is not distributed to alternative areas
 
 ### AI
 
-- ** _Theory of Affordance_: a term coined by psychologist James J. Gibson. It states that when intelligent beings look at the world they perceive not simply objects and their relationships but also their *possibilities*. Eg, when we sit on a chair, the chair "affords" the possibility of sitting, whereas the same cannot be said about water, which instead "affords" the possibility of drinking or swimming in.
-- ** _The Coded Gaze_: Defined by MIT grad student Joy Buolamwini as the bias in machine learning systems that involve lower accuracy for individuals of different skin tones and genders.
-### Surveillence
+- _Theory of Affordance_: a term coined by psychologist James J. Gibson. It states that when intelligent beings look at the world they perceive not simply objects and their relationships but also their *possibilities*. Eg, when we sit on a chair, the chair "affords" the possibility of sitting, whereas the same cannot be said about water, which instead "affords" the possibility of drinking or swimming in.
+- _The Coded Gaze_: Defined by MIT grad student Joy Buolamwini as the bias in machine learning systems that involve lower accuracy for individuals of different skin tones and genders.
+### Surveillence and Security
 
+- "Surveillance": Either specifically highly targeted or aimless but covert monitoring of individuals, usually through audiovisual data collection
+    - "CCTV": inherent yet embraced form of surveillance in public spaces, less disconcerting
+    - "Online tracking": Infringement of rights in the form of sharing of data to other sources (very concerning)
 - "Stalkerware": Defined by its ability to hide and stealthily record information from the device. As the name implies, it is used for stalking.
 
 ## Quotes
