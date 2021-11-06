@@ -1,6 +1,8 @@
 # EL Notes
 If you want, please compile all statistics and data you find in this repository. For EL4131. Additional articles are also appreciated.
 
+An endeavour by 404.
+
 ## Directory Structure
 ```
 ├── Crime and Punishment
