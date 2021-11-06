@@ -1,9 +1,12 @@
-
 ---
 title: Stats and Quotes Notes
 ---
 
-### Table of Contents
+
+# Stats and Quotes Notes
+
+
+<!-- ## Table of Contents
 
 - [Science](#science)
   - [Definitions](#definitions)
@@ -51,36 +54,36 @@ title: Stats and Quotes Notes
 
 <br>
 <br>
-<br>
+<br> -->
 
-# Science
+## Science
 
-## Examples
+### Examples
 
-### Medicine and Pharmacology
+#### Medicine and Pharmacology
 
 - The National Heart Centre Singapore has proposed that scans of patients’ hearts could be turned into 3D models. This has long-standing benefits as it helps cardiac surgeons make better surgery plans, especially for non-invasive procedures, and can also be used as a training tool for young doctors. Most importantly, the arrival of such technology would make animal testing obsolete; finally, human health need not be predicated on the suffering of animals, which is a step forward for mankind.
 - Medco Health Solutions, one of America’s largest pharmacy benefit managers until it was acquired by Express Solutions in 2011, was leading the way in making the provision of personal genomics services to the masses a reality. It had already achieved successes with personalized treatment of Warfarin, a widely used blood thinner to prevent clots, and Tamoxifen for breast cancer. Essentially, matching the right drugs to the patients has obvious clinical benefits, but also makes good economic sense. By reducing the occurrence of misdiagnosis, long hospitalization periods and the need for follow-up treatment, personalized healthcare can generate significant cost savings.
 - In the United Kingdom, the National Healthcare System is collaborating with academia and industry to analyse the genetic material of persons with rare disorders through the 100,000 Genomes Project. It is hoped that such information will shed light on and save lives from disorders which were previously unknown.
 
-### Ethics
+#### Ethics
 
 - The high profile suicide of Dr Yoshiki Sasai, a disgruntled stem-cell biologist at the Riken Centre for Developmental Biology in Japan, after allegedly fabricating data for clinical trials published in international journals, is just the tip of the iceberg. Institutes place immense pressure on scientists to produce transformative research, at the expense of their well-being and integrity. Many scientists have fabricated research published in academic journals, with even peer-reviewed scientific journals to verify the results of such experiments. This may have far-reaching consequences in the future as fabrications not only cast doubt on the credibility of medical research but leave scientists vulnerable to making critical mistakes.
 - In 2007, British bases in Basra were attacked by terrorist who had used aerial footage from Google Earth to identify target locations.
 - In his bestselling book ‘Homo Deus: A Brief History of Tomorrow’, Professor Yuval Noah Harari commented that “during the Agricultural Revolution, humankind silenced animals and plants, and turned the animist grand opera into a dialogue between man and gods. During the Scientific Revolution, humankind silenced the gods too.” In fact, the very premise of Harari’s seemingly outlandish claims is that modern science has made men gods; although the best and the brightest understand that scientific research simply reflects the inadequacy of human knowledge, the accessibility and transformative power of modern science has granted us an immeasurable amount of power which we are wont to abuse.
 
-### Genetic Engineering
+#### Genetic Engineering
 
 - Aldous Huxley’s *Brave New World* describes a dystopian world where infants are grown in vats and sorted according to their intelligence levels. Even back in 1937, when the novel was first published, the fear of dehumanization and infringing upon the sanctity of human life was already gaining traction among readers.
 - The Green Revolution, which involved high yielding varieties (HYVs) and genetically modified crops, resulted in an exponential increase in global cereal production by 280% and in global consumption per capita by 25% between 1961 and 2004. Besides addressing hunger, the Green Revolution addressed other aspects of food security, such as nutritional inadequacy, with genetically modified crops. Golden Rice, touted to be a genetic marvel, was efficient in meeting the dietary requirements of those afflicted with Vitamin A deficiency. In societies where widespread famine has struck and there seemed to be no hope for improvement, the Green Revolution was an enormous breakthrough for poverty reduction efforts and indeed shines as a success story.
 
-### Inequality and Discimination
+#### Inequality and Discimination
 
 - "Talking Books" the godfather of audiobooks was developed in 1930 in US for people who have impaired vision. Some hacked the system to increase reading speed, leading to audio time-stretching technology
   - This shows disabilities driving developments
   - They are key players not an afterthought in innovation
 
-### Peer-Review Processes in Research
+#### Peer-Review Processes in Research
 
 |        Process        |                         Single Blind                         |                         Double Blind                         |
 | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -90,9 +93,9 @@ title: Stats and Quotes Notes
 
 
 
-## Stats
+### Stats
 
-### COVID-19 Vaccination
+#### COVID-19 Vaccination
 
 - high-income economies with around 16% of the world's population have secured over 70% of 5 major vaccine doses for 2021
 <br>&emsp;  Source: `Challenges in ensuring global access to COVID-19 vaccines: production, affordability, allocation, and deployment`
@@ -105,13 +108,13 @@ title: Stats and Quotes Notes
 <br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
 <br>&emsp;  Notes: `Mr Poonawalla mentions that the company is uncertain about when it would receive a licence from India and did not have enough warehouse space.`
 
-### Inequality and Discimination
+#### Inequality and Discimination
 
 - 58% of Women with STEM Degree have STEM Jobs, 70% of men with STEM Degree have STEM jobs
 <br>&emsp;  Source: `Study by Nanyang Technological University`
 <br>&emsp;  Notes: `Dataset of 738 Singaporeans`
 
-### Medicine and Pharmacology
+#### Medicine and Pharmacology
 
 - About half of 117 million American adults are on medication for preventable chronic diseases such as diabetes.
 - According to research conducted by health research firm Quintile IMS, the number of prescriptions filled for Americans increased by an astronomical 85% between 1997 and 2016, from 2.4 billion to 5.4 billion a year, even as the population increased by a mere 21% during this period. 
@@ -125,16 +128,16 @@ title: Stats and Quotes Notes
 
 <hr>
 
-# Technology
+## Technology
 
-## Definitions
+### Definitions
 
 
-### Cancel Culture
+#### Cancel Culture
 - "Cancel": To effectively end their career or revoke their cultural cachet, whether through boycotts of their work or disciplinary action from an employer.
 - "Cancel Culture": The culture of cancelling people who have done something bad in the eyes of the public, which often involves unfair attempts of online vigilantism, often effectively destroying one's life in the process.
 
-### Big Tech
+#### Big Tech
 
 - **Big Tech** / **FAGMA**: Word/Acronym used to describe the five largest tech companies in the world, namely Facebook, Amazon, Google, Microsoft and Apple
 
@@ -152,7 +155,7 @@ title: Stats and Quotes Notes
 
 - *Data Collection*: Collection of data for mass usage, eg MOST cookies, data stored on websites - Data is not distributed to alternative areas
 
-### AI
+#### AI
 
 - _Theory of Affordance_: a term coined by psychologist James J. Gibson. It states that when intelligent beings look at the world they perceive not simply objects and their relationships but also their *possibilities*. Eg, when we sit on a chair, the chair "affords" the possibility of sitting, whereas the same cannot be said about water, which instead "affords" the possibility of drinking or swimming in.
 - _The Coded Gaze_: Defined by MIT grad student Joy Buolamwini as the bias in machine learning systems that involve lower accuracy for individuals of different skin tones and genders.
@@ -163,15 +166,15 @@ title: Stats and Quotes Notes
     - "Online tracking": Infringement of rights in the form of sharing of data to other sources (very concerning)
 - "Stalkerware": Defined by its ability to hide and stealthily record information from the device. As the name implies, it is used for stalking.
 
-## Quotes
+### Quotes
 
 -  “All of the biggest technological inventions created by man say little about his intelligence, but speak volumes about his laziness.” ~ (widely attributed to) Mark Kennedy
 
-### Cancel Culture
+#### Cancel Culture
 - "Canceling is a way to acknowledge that you don’t have to have the power to change structural inequality, You don’t even have to have the power to change all of public sentiment. But as an individual, you can still have power beyond measure." ~ Charity Hudley
 - “All I know is just what I read in the papers, and that’s an alibi for my ignorance.” ~ Will Rogers
 
-### Morals and Ethics
+#### Morals and Ethics
 - In surveys, people say they want an autonomous vehicle to protect pedestrians, even if it means sacrificing its passengers but also that they wouldn’t buy selfdriving vehicles programmed to act in this way.
 <br>&emsp;  Source: `Nature, Bonnefon, J. et al. Science 352, 1573–1576 (2016)`
 
@@ -182,9 +185,9 @@ title: Stats and Quotes Notes
 - "Science in itself is morally neutral; it becomes good or evil according as it is applied"
 <br>&emsp;  Source: `Aldous Huxley`
 
-## Examples
+### Examples
 
-### Social Media
+#### Social Media
 
 - **The Arab Spring of 2011**, where social media was used to rapidly spread awareness of and coordinate the protests. The uprising led to the overthrow of Ben Ali, Mubarak and Gaddafi in Tunisia, Egypt and Libya respectively, and civil war in most others. Notwithstanding the fact that those governments were oppressive and an uprising may perhaps be justified, the fact remains that the use of social media could turn the people against their leaders with unprecedented intensity and speed. 
 - In China, Facebook was used during the July 2009 Urumqi Riots by the minority Muslims in Xinjiang which led to the deaths of almost 200 people and almost 2,000 injured, in turn leading to the ban of the social media platform nation-wide.
@@ -201,7 +204,7 @@ title: Stats and Quotes Notes
 - The ALS Ice Bucket Challenge, started in the summer of 2014, raised $11.5 million for its cause. Over 17 million people uploaded their challenge videos to Facebook, and thus the cause was also championed by celebrities such as Taylor Swift, Bill Gates and Mark Zuckerberg. The challenge was started in a bid to raise awareness for the disease known as amyotrophic lateral sclerosis, and the use of social media spreading this challenge resulted in its resounding success.\
 - The Trashtag Challenge, where social media users pick up litter, clean their environment and later post a photo of their accomplishments on social media. It has allowed users a better insight of the sheer scale of the plastics pollution problem. It is a good example of how social media can go further than raising awareness to mobilizing individuals to act, producing tangible results.
 
-### Big Tech
+#### Big Tech
 
 - **The NSA Scandal**: It was revealed in 2013 that America's NSA and their British counterpart had been stealing information secretively from users of Google, Yahoo and many other tech products, with the creators of the products being completely oblivious to this happening. This led to widespread fear regarding government surveillance and stigmated views against Big Tech.
   - Classified as "surveillance", since the data was used as a form of targeted monitoring to triangulate individuals based on the others' relative positions in order to identify potential threats.
@@ -217,15 +220,15 @@ title: Stats and Quotes Notes
 - **WhatsApp's Privacy Settings**: In the beginning of 2021, millions of people around the globe received a message on their phones that WhatsApp was updating their privacy settings such that certain data would be stored by WhatsApp. Being an application recently acquired by Facebook, this message led to immediate terror and uproar amongst the general populace, with many worldwide immediately deleting the app and switching to Telegram and Signal, the latter of which was instigated by Tesla CEO Elon Musk. While these concerns ended up being overexaggerated, it was still notable that the general populace has become more receptive to privacy concerns and the impacts that these settings could have.
 - **Theranos** has been a very clear indicator of how much trust we have in technology today. The scandal was one of the many such cases involving market fraud and the misleading of shareholders over the past few years and has been helmed as Silicon Valley’s Greatest Disaster. With an idea as incredible as was the founder’s, Elizabeth Holmes, who possessed a very limited amount of knowledge regarding medical trials and entrepreneurial methods and a small patent developed within a few five days, Theranos seemed doomed from the start, yet it grew from a simple start-up in 2003 to a highly valued company with a valuation of about 9 billion dollars in 2014. In a few short years, the medical company had grown to the point that Holmes was now the richest self-made female billionare in the world, yet all it had was a disappointing line-up of inaccurate products with fabricated results that left many flabbergasted. Holmes had somehow managed to convince stakeholders and even the board of directors of her own company to let her continue the fraud.
 
-### Cancel Culture
+#### Cancel Culture
 
 - J.K. Rowling faced intense criticism after voicing transphobic beliefs, got cancelled. In June 2020, she published a transphobic manifesto, sales increased in her home country (Britain)
 
-### Prejudice and Discrimination
+#### Prejudice and Discrimination
 
 - Mr Saidullah Karimi, a orthopedic technician and Afghan refugee, built a fully-functioning robot called Athena from recyclable parts to stand as a symbol of what refugees can accomplish and contribute to society if given the chance. In fact, refugees are often denied work by companies in Europe and the US since they are said to use different technology in their homeland, which is far from the truth.
 
-### AI
+#### AI
 
 - An AI chatbot developed in South Korea named Luda Lee, initially popular for its cheerful disposition and ability to talk like a human being, quickly became the source of controversy after it made inappropriate comments regarding women's rights, lesbianism and disability, joining a long list of such chatbots infamous for their polarising opinions, often contrary to public opinion, including Microsoft's Tay, Japan's Rinna and China's BabyQ. The company behind it was also sued for disseminating personal information of the users.
 - Research done by the University of Montreal suggests that AI has better clinical decision-making capability than do humans, but generally in a more secondary sense, i.e. in the form of a second opinion.
@@ -256,13 +259,13 @@ title: Stats and Quotes Notes
 - In a recent article by the newsletter, Emerging Tech Brew, the journalist talks about how 94% of AI systems studied are more inaccurate when compared to human radiologists. This statistic may seem pretty indicative of the relative nascence of AI, but it in fact demonstrates that many journalists have no clue as to how AI truly works, with statements like these being played for entertainment rather than truth.
 
 
-#### Autonomous Vehicles
+##### Autonomous Vehicles
 
 - Moral Machine Experiment: a worldwide survey pertaining to choices made by Autonomous Vehicles in adverse situation wherein one or more are susceptible to death. Revealed different opinions across the world, with people residing in Asian Countries displaying a slight favouritism to the elderly while some expressed greater appreciation for Females.
 
-## Stats
+### Stats
 
-### Social Media
+#### Social Media
 
 - According to the International Communication Union, there are more than 3 billion Internet users worldwide.
 - According to a research conducted by Pew Research Centre on 700 American youth in 2018, close to 95% of teenagers have access to a smartphone, and 45% say that they are online on social media platforms on a ‘almost constant’ basis. The older generation is remarkably less adept at using technology and social media: while 90% of those aged 18-29 use at least one social media account, only 40% of those aged above 65 do.
@@ -270,7 +273,7 @@ title: Stats and Quotes Notes
 - Since close to 1.7 billion people of the 7.2 billion people in the world today have active social media accounts, there is a *smorgasbord* of differing opinions online.
 - Naturalistic research indicates that people who had conversations without the presence of a mobile phone felt that these conversations felt higher levels of ‘empathetic concern’, as opposed to those who conversed with the presence of a mobile phone.
 
-### Autonomous Vehicles
+#### Autonomous Vehicles
 
 - 9.1 crashes per million miles driven for self-driving cars, compared with 4.1 crashes per million miles for conventional vehicles.
 <br>&emsp;  Source: `University of Michigan’s Transportation Research Institute`
@@ -284,7 +287,7 @@ title: Stats and Quotes Notes
 <br>&emsp;  Source: `University of Michigan’s Transportation Research Institute`
 <br>&emsp;  Notes: `Using crash stats from US National Highway Traffic Safety Administration`
 
-### Big Tech and Big Data
+#### Big Tech and Big Data
 
 - Combined stock market valuation of Apple, Alphabet, Nvidia, Tesla, Microsoft, Amazon and Facebook (i.e FAAMG + Nvidia + Tesla) is $3.4 trillion in 2020.
   <br>&emsp;  Article: `CNBC` - `Tech’s top seven companies added $3.4 trillion in value in 2020`
@@ -305,7 +308,7 @@ title: Stats and Quotes Notes
 - Facebook expects to dole out more cash outfitting its computer hubs and offices in 2021 than Exxon [spends](https://www.nytimes.com/2021/10/12/technology/big-tech-spending.html) around the world to dig oil and gas out of the ground in a year.
 - [Amazon](https://www.nytimes.com/2021/07/29/technology/amazon-q2-earnings-profit.html) fell short of investors’ expectations on Thursday. But in the past year, Amazon’s e-commerce revenue still climbed by $109 billion — an increase in a single year that Walmart needed the past nine years to reach.
 
-### Cancel Culture
+#### Cancel Culture
 - More than 90% of the doxed files included the victim's address,  61% included a phone number, and 53% included an email address. 
 <br>&emsp;  Source: [`2017 NYU` - `First large-scale doxing study reveals motivations and targets for cyber bullying`](https://www.sciencedaily.com/releases/2017/11/171107122918.htm)
 <br>&emsp;  Notes: `Over 5500 files of doxxing, implies over 5500 cases of doxxing as sample size`
@@ -314,7 +317,7 @@ title: Stats and Quotes Notes
 <br>&emsp;  Source: [`Int J Environ Res Public Health` - `Doxing: What Adolescents Look for and Their Intentions`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6352099/)
 <br>&emsp;  Notes: `Survey of 2120 Hong Kong students`
 
-### Surveillance
+#### Surveillance
 
 - Ten of 24 US Governmental agencies surveyed plan to broaden their use of facial recognition systems by 2023, while eighteen of 24 currently use some form of the technology, according to an August 2021 report by the US Government Accountability Office (GAO).
 - [Facial recognition has proved to be less accurate on people with darker skin](https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212), women, and younger and older people,  according to a 2018 paper presented by MIT and Stanford University researchers. This was due to the fact that dataset used to assess its performance was more than 77 percent male and more than 83 percent white. Leading to a disparity of nearly 46% for some individuals.
@@ -329,7 +332,7 @@ title: Stats and Quotes Notes
 - Facial recognition used to catch felons at a Superbowl in Tampa, Florida 2001
 - According to recent [research](https://cdt.org/wp-content/uploads/2021/09/Online-and-Observed-Student-Privacy-Implications-of-School-Issued-Devices-and-Student-Activity-Monitoring-Software.pdf) by the Center for Democracy and Technology (CDT), “86% of teachers reported that, during the pandemic, schools provided tablets, laptops, or Chromebooks to students at twice the rate (43%) prior to the pandemic, an illustration of schools’ attempts to close disparities in digital access.” More than 80% of surveyed teachers and 77% of surveyed high school students told the CDT that their schools use surveillance software on those devices, and the more reliant students are on those electronics, unable to afford supplementary phones or tablets, the more they are subjected to scrutiny.
 
-### Security
+#### Security
 
 - 76.1% of websites use https by default, a more secure protocol to access websites, while the 85.5% top 1 million websites use https by default
 <br>&emsp;  Source: [`W3Techs`](https://w3techs.com/technologies/breakdown/ce-httpsdefault/ranking)
@@ -351,7 +354,7 @@ title: Stats and Quotes Notes
 <br>&emsp;  Source: `Rutgers University analysing China Education Panel Survey`
 <br>&emsp;  Notes: `10000 1st year middle schoolers, mean age = 13.5`
 
-### Tech Talent Crunch
+#### Tech Talent Crunch
 
 - Singaporeans accounted for about 35 per cent of tech jobs, and 35 per cent of net tech jobs created in the past five years in banking and finance.
 <br>&emsp;  Article: `NTU Business` - [`What is stopping more Singaporeans from taking up tech jobs?`](https://www.ntu.edu.sg/business/news-events/news/story-detail/what-is-stopping-more-singaporeans-from-taking-up-tech-jobs)
@@ -360,31 +363,31 @@ title: Stats and Quotes Notes
 - The labour shortage by 2030 could cost Singapore nearly 39.2 billion SGD, which is very undesirable for the city state, since it could possibly account for 21 percent of Singapore’s projected economy by then.
 - Only a third of the technological workforce in the financial sector is made of Singaporeans
 
-### AI
+#### AI
 
 - In 2019, the AI workforce made up 9% of total US employment. And over the next decade, employment in AI-related occupations is projected to grow twice as fast as employment in all occupations, according to data from the Bureau of Labor Statistics.
 - The US needs to increase its supply of AI PhDs since [research suggests](https://cset.georgetown.edu/publication/u-s-ai-workforce/) there’s a supply-demand gap for top-tier talent; “sustain and diversify” pipelines for technical AI roles; and introduce AI education into K-12 curriculums.
 - 
 
-# Prejudice and Discrimination
+## Prejudice and Discrimination
 
-## Examples
+### Examples
 
 - In some of the early chapters of Harper Lee's 1960 novel, _To Kill A Mockingbird_, we are introduced to the character of Ms Caroline and young schoolteacher who had come from another town. The chapters expand on some of the classroom sessions, showing some of the ways Ms Caroline was unaware of many of the cultural norms the rest had beome very much accustomed to. While a stretch, this can be well-reasoned to the issues that many foreigners experience in different countries, since these countries have differing systems and adjusting to these requires time.
 
-## Stats
+### Stats
 
 - Women and early-career academics are more likely to feel like impostors in an academic discipline perceived to require raw talent for success.
 <br>&emsp;  Source: `New York University 2021 Study`
 
-### Women in Tech
+#### Women in Tech
 
 - A report by Microsoft found that more than 50% of young females are in fact interested in working in the STEM sector.
 - Only 58% of females Singaporeans, after pursuing a degree in STEM, go on to STEM-related careers.
 - According to the UNESCO Institute for Statistics, less that 30 percent of the world’s researchers are female.
 - Most women drop off the register of professional engineers before the age of 45.
 
-### Meritocracy & Elitism
+#### Meritocracy & Elitism
 
 - Harvard, Princeton, Stanford, Yale collectively enroll top 1% of income distribution than from households from bottom 60%
 - In US, 7 top banks and law firms recruit exclusively from elite colleges
@@ -393,8 +396,8 @@ title: Stats and Quotes Notes
 - Burdening the rich is a non-sequitor to reducing inequality as severe income disparities cause the elite to become more competitive to hold onto their status, get a return on their investment in social capital (education, networking etc.), and provide similar resources to their children for succeeding their wealth and status.
 - **Elite Overproduction**: Coined by Peter Turchin, describing a phase of a complex society involving a bloated elite class, too few elite jobs, declining living standards among general population. [The Next Decade Could Be Even Worse](https://www.theatlantic.com/magazine/archive/2020/12/can-history-predict-future/616993/)
 
-# Crime and Punishment
+## Crime and Punishment
 
-## Examples
+### Examples
 
 - In the 1994 prison drama, _The Shawshank Redemption_, the life story of an innocent man thrust into prison is shown, spanning nearly 20 years. As we progress through the story, we see him slowly but surely see the cruel injustices faced in prison, with his management of the corrupt warden's ledger. While an offense on its own, its rather ironic for a man as situationally perpetuated to be innocent as the warden to take over the role of a criminal. Unfortunately that is the case.
