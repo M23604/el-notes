@@ -3,7 +3,7 @@
 title: Stats and Quotes Notes
 ---
 
-<font size = 16><u>**Table of Contents**</u></font>
+### Table of Contents
 
 - [Science](#science)
   - [Definitions](#definitions)
