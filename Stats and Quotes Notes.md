@@ -6,55 +6,57 @@ title: Stats and Quotes Notes
 # Stats and Quotes Notes
 
 
-<!-- ## Table of Contents
+## Table of Contents
 
-- [Science](#science)
-  - [Definitions](#definitions)
-  - [Quotes](#quotes)
-  - [Examples](#examples)
-    - [Inequality and Discimination](#inequality-and-discimination)
-  - [Stats](#stats)
-    - [COVID-19 Vaccination](#covid-19-vaccination)
-    - [Inequality and Discimination](#inequality-and-discimination-1)
-- [Technology](#technology)
-  - [Definitions](#definitions-1)
-    - [Cancel Culture](#cancel-culture)
-    - [Big Tech](#big-tech)
-    - [AI](#ai)
+- [Stats and Quotes Notes](#stats-and-quotes-notes)
+  - [Table of Contents](#table-of-contents)
+  - [Science](#science)
+    - [Examples](#examples)
+      - [Medicine and Pharmacology](#medicine-and-pharmacology)
+      - [Ethics](#ethics)
+      - [Genetic Engineering](#genetic-engineering)
+      - [Inequality and Discimination](#inequality-and-discimination)
+      - [Peer-Review Processes in Research](#peer-review-processes-in-research)
+    - [Stats](#stats)
+      - [COVID-19 Vaccination](#covid-19-vaccination)
+      - [Inequality and Discimination](#inequality-and-discimination-1)
+      - [Medicine and Pharmacology](#medicine-and-pharmacology-1)
+  - [Technology](#technology)
+    - [Definitions](#definitions)
+      - [Cancel Culture](#cancel-culture)
+      - [Big Tech](#big-tech)
+      - [AI](#ai)
     - [Surveillence and Security](#surveillence-and-security)
-  - [Quotes](#quotes-1)
-    - [Cancel Culture](#cancel-culture-1)
-    - [Morals and Ethics](#morals-and-ethics)
-  - [Examples](#examples-1)
-    - [Big Tech](#big-tech-1)
-    - [Cancel Culture](#cancel-culture-2)
-    - [AI](#ai-1)
-      - [Autonomous Vehicles](#autonomous-vehicles)
-  - [Stats](#stats-1)
-    - [Autonomous Vehicles](#autonomous-vehicles-1)
-    - [Big Tech and Big Data](#big-tech-and-big-data)
-    - [Cancel Culture](#cancel-culture-3)
-    - [Surveillance](#surveillance)
-    - [Security](#security)
+    - [Quotes](#quotes)
+      - [Cancel Culture](#cancel-culture-1)
+      - [Morals and Ethics](#morals-and-ethics)
+    - [Examples](#examples-1)
+      - [Social Media](#social-media)
+      - [Big Tech](#big-tech-1)
+      - [Cancel Culture](#cancel-culture-2)
+      - [Prejudice and Discrimination](#prejudice-and-discrimination)
+      - [AI](#ai-1)
+        - [Autonomous Vehicles](#autonomous-vehicles)
+    - [Stats](#stats-1)
+      - [Social Media](#social-media-1)
+      - [Autonomous Vehicles](#autonomous-vehicles-1)
+      - [Big Tech and Big Data](#big-tech-and-big-data)
+      - [Cancel Culture](#cancel-culture-3)
+      - [Surveillance](#surveillance)
+      - [Security](#security)
     - [Morals and Ethics](#morals-and-ethics-1)
     - [Youth](#youth)
-    - [Tech Talent Crunch](#tech-talent-crunch)
-- [Prejudice and Discrimination](#prejudice-and-discrimination)
-  - [Definitions](#definitions-2)
-  - [Quotes](#quotes-2)
-  - [Examples](#examples-2)
-  - [Stats](#stats-2)
-    - [Women in Tech](#women-in-tech)
-    - [Meritocracy & Elitism](#meritocracy--elitism)
-- [Crime and Punishment](#crime-and-punishment)
-  - [Definitions](#definitions-3)
-  - [Quotes](#quotes-3)
-  - [Examples](#examples-3)
-  - [Stats](#stats-3)
+      - [Tech Talent Crunch](#tech-talent-crunch)
+      - [AI](#ai-2)
+  - [Prejudice and Discrimination](#prejudice-and-discrimination-1)
+    - [Examples](#examples-2)
+    - [Stats](#stats-2)
+      - [Women in Tech](#women-in-tech)
+      - [Meritocracy & Elitism](#meritocracy--elitism)
+  - [Crime and Punishment](#crime-and-punishment)
+    - [Examples](#examples-3)
 
-<br>
-<br>
-<br> -->
+<div style="page-break-after: always"></div>
 
 ## Science
 
@@ -85,10 +87,10 @@ title: Stats and Quotes Notes
 
 #### Peer-Review Processes in Research
 
-|        Process        |                         Single Blind                         |                         Double Blind                         |
-| :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|          How          | Authors are unaware of who the Reviewers are, but the Reviewers know who the Authors are |  Authors and Reviewers are both unaware of who the other is  |
-| Why is **DB** Better? | The name of the authors is a considerable factor in the peer review process. | Anonymity ensures that quality of paper is assessed rather than the name of the authors |
+|        Process        |                                                                                                                                                Single Blind                                                                                                                                                |                                                                                                                                        Double Blind                                                                                                                                         |
+| :-------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|          How          |                                                                                                          Authors are unaware of who the Reviewers are, but the Reviewers know who the Authors are                                                                                                          |                                                                                                                 Authors and Reviewers are both unaware of who the other is                                                                                                                  |
+| Why is **DB** Better? |                                                                                                                The name of the authors is a considerable factor in the peer review process.                                                                                                                |                                                                                                   Anonymity ensures that quality of paper is assessed rather than the name of the authors                                                                                                   |
 |       Examples        | Peter Higgs, whose seminal paper postulating the existence of the Higgs Boson, was rejected by the Physics Letters Journal, one infamous for employing single blind protocol in peer review processes, although later it was proven to be true and Higgs even won a Nobel Prize for his work back in 2013. | NYU Professor Yann LeCun, who is internationally regarded as one of the pioneers of modern AI development, recently posted on many Social Media sites with the proud admission that one of his most recent papers was rejected by the NeurIPS journal, one graded on double blind protocol. |
 
 
@@ -356,19 +358,28 @@ title: Stats and Quotes Notes
 
 #### Tech Talent Crunch
 
+- 40% of 9 to 12 year olds visit Instagram everyday 
+<br>&emsp;  Article: `New York Times` - [`What’s One of the Most Dangerous Toys for Kids? The Internet`](https://www.nytimes.com/2021/11/24/opinion/kids-internet-safety-social-apps.html?smid=url-share)
+
+- 78% of 9 to 12 year olds visit YouTube everyday 
+<br>&emsp;  Article: `New York Times` - [`What’s One of the Most Dangerous Toys for Kids? The Internet`](https://www.nytimes.com/2021/11/24/opinion/kids-internet-safety-social-apps.html?smid=url-share)
+
 - Singaporeans accounted for about 35 per cent of tech jobs, and 35 per cent of net tech jobs created in the past five years in banking and finance.
 <br>&emsp;  Article: `NTU Business` - [`What is stopping more Singaporeans from taking up tech jobs?`](https://www.ntu.edu.sg/business/news-events/news/story-detail/what-is-stopping-more-singaporeans-from-taking-up-tech-jobs)
 <br>&emsp;  Source: `Monetary Authority of Singapore (MAS)`
+
 - There appears to be a general lack of students graduating with degrees in Computer Science-related fields, with only 2,800 such graduates every year, compared to the demand of nearly 60,000 needed by 2023, according to Dr Vivian Balakrishnan, Minister-in-charge of the Smart Nation Initiative.
+
 - The labour shortage by 2030 could cost Singapore nearly 39.2 billion SGD, which is very undesirable for the city state, since it could possibly account for 21 percent of Singapore’s projected economy by then.
+
 - Only a third of the technological workforce in the financial sector is made of Singaporeans
 
 #### AI
 
 - In 2019, the AI workforce made up 9% of total US employment. And over the next decade, employment in AI-related occupations is projected to grow twice as fast as employment in all occupations, according to data from the Bureau of Labor Statistics.
 - The US needs to increase its supply of AI PhDs since [research suggests](https://cset.georgetown.edu/publication/u-s-ai-workforce/) there’s a supply-demand gap for top-tier talent; “sustain and diversify” pipelines for technical AI roles; and introduce AI education into K-12 curriculums.
-- 
 
+---
 ## Prejudice and Discrimination
 
 ### Examples
@@ -396,6 +407,7 @@ title: Stats and Quotes Notes
 - Burdening the rich is a non-sequitor to reducing inequality as severe income disparities cause the elite to become more competitive to hold onto their status, get a return on their investment in social capital (education, networking etc.), and provide similar resources to their children for succeeding their wealth and status.
 - **Elite Overproduction**: Coined by Peter Turchin, describing a phase of a complex society involving a bloated elite class, too few elite jobs, declining living standards among general population. [The Next Decade Could Be Even Worse](https://www.theatlantic.com/magazine/archive/2020/12/can-history-predict-future/616993/)
 
+---
 ## Crime and Punishment
 
 ### Examples
