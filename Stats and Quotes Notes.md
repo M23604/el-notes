@@ -1,11 +1,7 @@
 ---
 title: Stats and Quotes Notes
 ---
-
-
 # Stats and Quotes Notes
-
-
 ## Table of Contents
 
 - [Stats and Quotes Notes](#stats-and-quotes-notes)
@@ -15,18 +11,18 @@ title: Stats and Quotes Notes
       - [Medicine and Pharmacology](#medicine-and-pharmacology)
       - [Ethics](#ethics)
       - [Genetic Engineering](#genetic-engineering)
-      - [Inequality and Discimination](#inequality-and-discimination)
+      - [Inequality and Discrimination](#inequality-and-discrimination)
       - [Peer-Review Processes in Research](#peer-review-processes-in-research)
     - [Stats](#stats)
       - [COVID-19 Vaccination](#covid-19-vaccination)
-      - [Inequality and Discimination](#inequality-and-discimination-1)
+      - [Inequality and Discrimination](#inequality-and-discrimination-1)
       - [Medicine and Pharmacology](#medicine-and-pharmacology-1)
   - [Technology](#technology)
     - [Definitions](#definitions)
       - [Cancel Culture](#cancel-culture)
       - [Big Tech](#big-tech)
       - [AI](#ai)
-    - [Surveillence and Security](#surveillence-and-security)
+      - [Surveillence and Security](#surveillence-and-security)
     - [Quotes](#quotes)
       - [Cancel Culture](#cancel-culture-1)
       - [Morals and Ethics](#morals-and-ethics)
@@ -55,6 +51,11 @@ title: Stats and Quotes Notes
       - [Meritocracy & Elitism](#meritocracy--elitism)
   - [Crime and Punishment](#crime-and-punishment)
     - [Examples](#examples-3)
+  - [China](#china)
+    - [Quotes](#quotes-1)
+    - [Stats](#stats-3)
+  - [Hybrid Workplaces](#hybrid-workplaces)
+  - [Inequalty](#inequalty)
 
 <div style="page-break-after: always"></div>
 
@@ -79,7 +80,7 @@ title: Stats and Quotes Notes
 - Aldous Huxley’s *Brave New World* describes a dystopian world where infants are grown in vats and sorted according to their intelligence levels. Even back in 1937, when the novel was first published, the fear of dehumanization and infringing upon the sanctity of human life was already gaining traction among readers.
 - The Green Revolution, which involved high yielding varieties (HYVs) and genetically modified crops, resulted in an exponential increase in global cereal production by 280% and in global consumption per capita by 25% between 1961 and 2004. Besides addressing hunger, the Green Revolution addressed other aspects of food security, such as nutritional inadequacy, with genetically modified crops. Golden Rice, touted to be a genetic marvel, was efficient in meeting the dietary requirements of those afflicted with Vitamin A deficiency. In societies where widespread famine has struck and there seemed to be no hope for improvement, the Green Revolution was an enormous breakthrough for poverty reduction efforts and indeed shines as a success story.
 
-#### Inequality and Discimination
+#### Inequality and Discrimination
 
 - "Talking Books" the godfather of audiobooks was developed in 1930 in US for people who have impaired vision. Some hacked the system to increase reading speed, leading to audio time-stretching technology
   - This shows disabilities driving developments
@@ -100,21 +101,21 @@ title: Stats and Quotes Notes
 #### COVID-19 Vaccination
 
 - high-income economies with around 16% of the world's population have secured over 70% of 5 major vaccine doses for 2021
-<br>&emsp;  Source: `Challenges in ensuring global access to COVID-19 vaccines: production, affordability, allocation, and deployment`
-<br>&emsp;  Notes: `Research paper on theLancet, found on Fortune. Both are not so well known sources`
+</br>&emsp;  Source: `Challenges in ensuring global access to COVID-19 vaccines: production, affordability, allocation, and deployment`
+</br>&emsp;  Notes: `Research paper on theLancet, found on Fortune. Both are not so well known sources`
 
 - Covax has pledged to send 200 million vaccine shots to some 92 countries.  However only 30 million has been received.
-<br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
+</br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
 
 - Serum's CEO, Adar Poonawalla, pledged 400 million doses for low and middle-income countries by the end of 2020. As of Jan 2021, only 70 million shots were manufactured.
-<br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
-<br>&emsp;  Notes: `Mr Poonawalla mentions that the company is uncertain about when it would receive a licence from India and did not have enough warehouse space.`
+</br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
+</br>&emsp;  Notes: `Mr Poonawalla mentions that the company is uncertain about when it would receive a licence from India and did not have enough warehouse space.`
 
-#### Inequality and Discimination
+#### Inequality and Discrimination
 
 - 58% of Women with STEM Degree have STEM Jobs, 70% of men with STEM Degree have STEM jobs
-<br>&emsp;  Source: `Study by Nanyang Technological University`
-<br>&emsp;  Notes: `Dataset of 738 Singaporeans`
+</br>&emsp;  Source: `Study by Nanyang Technological University`
+</br>&emsp;  Notes: `Dataset of 738 Singaporeans`
 
 #### Medicine and Pharmacology
 
@@ -161,7 +162,7 @@ title: Stats and Quotes Notes
 
 - _Theory of Affordance_: a term coined by psychologist James J. Gibson. It states that when intelligent beings look at the world they perceive not simply objects and their relationships but also their *possibilities*. Eg, when we sit on a chair, the chair "affords" the possibility of sitting, whereas the same cannot be said about water, which instead "affords" the possibility of drinking or swimming in.
 - _The Coded Gaze_: Defined by MIT grad student Joy Buolamwini as the bias in machine learning systems that involve lower accuracy for individuals of different skin tones and genders.
-### Surveillence and Security
+#### Surveillence and Security
 
 - "Surveillance": Either specifically highly targeted or aimless but covert monitoring of individuals, usually through audiovisual data collection
     - "CCTV": inherent yet embraced form of surveillance in public spaces, less disconcerting
@@ -178,14 +179,14 @@ title: Stats and Quotes Notes
 
 #### Morals and Ethics
 - In surveys, people say they want an autonomous vehicle to protect pedestrians, even if it means sacrificing its passengers but also that they wouldn’t buy selfdriving vehicles programmed to act in this way.
-<br>&emsp;  Source: `Nature, Bonnefon, J. et al. Science 352, 1573–1576 (2016)`
+</br>&emsp;  Source: `Nature, Bonnefon, J. et al. Science 352, 1573–1576 (2016)`
 
 - "Technology is not neutral"
-<br>&emsp;  Source: `Sam Gregory, program director of the human rights nonprofit Witness`
-<br>&emsp;  Notes: `On software created with intent of malicious usage`
+</br>&emsp;  Source: `Sam Gregory, program director of the human rights nonprofit Witness`
+</br>&emsp;  Notes: `On software created with intent of malicious usage`
 
 - "Science in itself is morally neutral; it becomes good or evil according as it is applied"
-<br>&emsp;  Source: `Aldous Huxley`
+</br>&emsp;  Source: `Aldous Huxley`
 
 ### Examples
 
@@ -216,7 +217,7 @@ title: Stats and Quotes Notes
 - **The Facebook Whistleblower, Frances Haughen**: An ex-employee of Facebook, Frances Haughen had been secretly copying and storing hundreds of internal files in Facebook with regards to research it had done on the impacts of its algorithms to better serve their purpose as a tech company, and shared it with the Wall Street Journal (WSJ), leading to the creation of the "Facebook Files" series at the WSJ. Research done by Facebook itself found that
   - **angrier posts often got higher engagements**, hence in 2018, Facebook's algorithms were reconfigured to give priority to these posts in user feeds. An implication of this would entail that more individuals would be angrier while reading the post and it is definitely possible that it may have led to incitement of more hate speech. This is incredibly problematic, but Facebook's insistence to focus on the profit made by more user retention due to this algorithm led to this being left to the wayside by the developers.
   - During the sudden appearance of the pandemic, a large number of posts with contradictory information was shared on these social media platforms that left many users excessively confused. In fact, a study by the National Centre of Infectious Diseases (NCID) revealed that 6 in 10 Singaporeans received fake information regarding the pandemic. This information overload, or "infodemic", as termed by the World Health Organisation (WHO), has led to the spread of excessive amounts of misinformation.
-  - During events like the excessive aftermath of George Floyd's death and the Taliban's take-over of Afghanistan, an incredible number of posts led to these events being blown out of proportion. <insert text from above>
+  - During events like the excessive aftermath of George Floyd's death and the Taliban's take-over of Afghanistan, an incredible number of posts led to these events being blown out of proportion. \<insert text from above>
 - **The Capitol Riots and Trump's Ban**: After the absolutely horrific events of January 6th 2021, where a mob of individuals barreled their way into the US Capitol Building in support of Trump after his recent loss in the presidential elections, Trump was permanently banned from multiple social media platforms, like Facebook and Twitter. YouTube also banned him, and Apple and Google both refused to offer the Parler, which was commonly associated with Trump and his followers, on their respective mobile app stores. This was followed officially with the impeachment of Trump just a few short days of his term, but it also painted a picture of just how powerful Big Tech Countries, with their act of censorship making them act more like a government than a group of businesses.
 
 - **WhatsApp's Privacy Settings**: In the beginning of 2021, millions of people around the globe received a message on their phones that WhatsApp was updating their privacy settings such that certain data would be stored by WhatsApp. Being an application recently acquired by Facebook, this message led to immediate terror and uproar amongst the general populace, with many worldwide immediately deleting the app and switching to Telegram and Signal, the latter of which was instigated by Tesla CEO Elon Musk. While these concerns ended up being overexaggerated, it was still notable that the general populace has become more receptive to privacy concerns and the impacts that these settings could have.
@@ -235,12 +236,12 @@ title: Stats and Quotes Notes
 - An AI chatbot developed in South Korea named Luda Lee, initially popular for its cheerful disposition and ability to talk like a human being, quickly became the source of controversy after it made inappropriate comments regarding women's rights, lesbianism and disability, joining a long list of such chatbots infamous for their polarising opinions, often contrary to public opinion, including Microsoft's Tay, Japan's Rinna and China's BabyQ. The company behind it was also sued for disseminating personal information of the users.
 - Research done by the University of Montreal suggests that AI has better clinical decision-making capability than do humans, but generally in a more secondary sense, i.e. in the form of a second opinion.
 - A horrifying application of AI has been tools developed by many that utilise DeepFake technology in the form of false shaming individuals. For example, a software called DeepNude was recently taken down which involved taking in the image of a face, and mapping that onto a Pornographic Film using DeepFake technology.
-<br>&emsp;  Source: [`https://www.technologyreview.com/2021/09/13/1035449/ai-deepfake-app-face-swaps-women-into-porn/`](https://www.technologyreview.com/2021/09/13/1035449/ai-deepfake-app-face-swaps-women-into-porn/) (MIT Technology Review, 13th September 2021)
+</br>&emsp;  Source: [`https://www.technologyreview.com/2021/09/13/1035449/ai-deepfake-app-face-swaps-women-into-porn/`](https://www.technologyreview.com/2021/09/13/1035449/ai-deepfake-app-face-swaps-women-into-porn/) (MIT Technology Review, 13th September 2021)
 - AI Dungeon, a text generator game utilising AI, was used by a few individuals to generate child pornography.
-<br>&emsp;  Source: Vikram Ramanathan, 21st September 2021
+</br>&emsp;  Source: Vikram Ramanathan, 21st September 2021
 - Baidu's Xiaodu is an all-inclusive technology to aid an oncoming "Silver Tsunami", providing many crucial services like access to emergency care and emotional support.
 - AI algorithms developed by Big Tech and integrated into commerical and consumer products which drive the daily function of workplaces and people's lifestyles such as Google's search engine may gain more affordance than it should. Gebru Timnit, a researcher at Google's AI labs, grew wary of how quickly such technology were deployed and gaining dominance, and had criticise how black box language models developed by Google and competitors such as Microsoft's GPT-3, may for instance be trained on abusive language of the internet and develop biases yet elbow out promising alternatives, and later cause the future of AI technology to be built on shaky foundations... (List examples from other sections; e.g. coded gaze, stanford facial recognition; google's featured snippets).
- - <br>&emsp;  Source: [`https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/`](https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/) (MIT Technology Review on Timnit Gebru's sacking, 14th June 2021)
+ - </br>&emsp;  Source: [`https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/`](https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/) (MIT Technology Review on Timnit Gebru's sacking, 14th June 2021)
 - Use of AI in courts: see Science and Technology/Tech/AI/AI in courts.
   - Example: Advisory AI: Civil Resolution Tribunal (CRT) in British Columbia, Canada for disputes relating to subsidised housing. Predictive AI: Correctional Offender Management Profiling for Alternative Sanctions for predicting recidivism, has been known to overestimate recidivism among African American defendants compared to Caucasian Americans (though this may be natural consequence of greater concentrations of black felons in some areas), judges using the tool detain people more than before although it was intended to suade judges towards the opposite outcome.
   - This human control was an issue in the Loomis case, before the Supreme Court of Wisconsin.16 At stake were: (1) whether the use of the result of a risk assessment by an instrument such as COMPAS, where the operation is a business secret, violates the defendant’s right to a fair trial because the secret operation deprives a defendant of the opportunity to test the accuracy and scientific value of the risk assessment, and (2) whether it violates the right to a fair trial to rely on such a risk assessment because it includes gender and race in the assessment of the risk of recurrence. The Wisconsin Supreme Court dismissed Loomis’ objections, but said that the judge should give reasons as to how he or she uses COMPAS. The case was referred to the Supreme Court of the United States, which decided not to hear the case.
@@ -278,24 +279,24 @@ title: Stats and Quotes Notes
 #### Autonomous Vehicles
 
 - 9.1 crashes per million miles driven for self-driving cars, compared with 4.1 crashes per million miles for conventional vehicles.
-<br>&emsp;  Source: `University of Michigan’s Transportation Research Institute`
-<br>&emsp;  Notes: `Using crash stats from US National Highway Traffic Safety Administration`
+</br>&emsp;  Source: `University of Michigan’s Transportation Research Institute`
+</br>&emsp;  Notes: `Using crash stats from US National Highway Traffic Safety Administration`
 
 - Autonomous vehicles cause 0.36 injuries per crash, compared with 0.25 for conventional vehicles.
-<br>&emsp;  Source: `University of Michigan’s Transportation Research Institute`
-<br>&emsp;  Notes: `Using crash stats from US National Highway Traffic Safety Administration`
+</br>&emsp;  Source: `University of Michigan’s Transportation Research Institute`
+</br>&emsp;  Notes: `Using crash stats from US National Highway Traffic Safety Administration`
 
 - Self-driving cars are not responsible for any accidents
-<br>&emsp;  Source: `University of Michigan’s Transportation Research Institute`
-<br>&emsp;  Notes: `Using crash stats from US National Highway Traffic Safety Administration`
+</br>&emsp;  Source: `University of Michigan’s Transportation Research Institute`
+</br>&emsp;  Notes: `Using crash stats from US National Highway Traffic Safety Administration`
 
 #### Big Tech and Big Data
 
 - Combined stock market valuation of Apple, Alphabet, Nvidia, Tesla, Microsoft, Amazon and Facebook (i.e FAAMG + Nvidia + Tesla) is $3.4 trillion in 2020.
-  <br>&emsp;  Article: `CNBC` - `Tech’s top seven companies added $3.4 trillion in value in 2020`
+  </br>&emsp;  Article: `CNBC` - `Tech’s top seven companies added $3.4 trillion in value in 2020`
 - 80% of people have TraceTogether, reducing contact tracing from 4 days to 1.5 days
-  <br>&emsp;  Article: `CNA` - `Bill restricting police use of TraceTogether data introduced in Parliament, with tougher penalties for misuse`
-  <br>&emsp;  Source: `Smart Nation and Digital Government Group (SNDGG) Singapore`
+  </br>&emsp;  Article: `CNA` - `Bill restricting police use of TraceTogether data introduced in Parliament, with tougher penalties for misuse`
+  </br>&emsp;  Source: `Smart Nation and Digital Government Group (SNDGG) Singapore`
 - [Free markets are creating a major free speech problem](https://www.slowboring.com/p/china-speech)
   - Companies retroactively policing those who express dissent against China. Many such cases: John Cena calling Taiwan a country, LeBron James & Morey in solidarity with HK, Mercedes Benz quoting Dalai Lama. While individually the cases are not major, the opinions were expressed on english platforms (some banned in China like Twitter), towards english-speaking audiences.
   - PNTR (Permanent Normal Trade Relations which promised US-Chinese economic integration) during Clinton administration was not only for economic growth, but also for the US to abet the liberaization of the human potential of the people with American values in society and trade. (socially and economically since China is communist and micromanages private industries unlike US). However, unexpectedly censorship was smuggled into the US as to be elaborated.
@@ -312,12 +313,12 @@ title: Stats and Quotes Notes
 
 #### Cancel Culture
 - More than 90% of the doxed files included the victim's address,  61% included a phone number, and 53% included an email address. 
-<br>&emsp;  Source: [`2017 NYU` - `First large-scale doxing study reveals motivations and targets for cyber bullying`](https://www.sciencedaily.com/releases/2017/11/171107122918.htm)
-<br>&emsp;  Notes: `Over 5500 files of doxxing, implies over 5500 cases of doxxing as sample size`
+</br>&emsp;  Source: [`2017 NYU` - `First large-scale doxing study reveals motivations and targets for cyber bullying`](https://www.sciencedaily.com/releases/2017/11/171107122918.htm)
+</br>&emsp;  Notes: `Over 5500 files of doxxing, implies over 5500 cases of doxxing as sample size`
 
 - 12% of the students acknowledged their engagement in doxing.
-<br>&emsp;  Source: [`Int J Environ Res Public Health` - `Doxing: What Adolescents Look for and Their Intentions`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6352099/)
-<br>&emsp;  Notes: `Survey of 2120 Hong Kong students`
+</br>&emsp;  Source: [`Int J Environ Res Public Health` - `Doxing: What Adolescents Look for and Their Intentions`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6352099/)
+</br>&emsp;  Notes: `Survey of 2120 Hong Kong students`
 
 #### Surveillance
 
@@ -337,36 +338,36 @@ title: Stats and Quotes Notes
 #### Security
 
 - 76.1% of websites use https by default, a more secure protocol to access websites, while the 85.5% top 1 million websites use https by default
-<br>&emsp;  Source: [`W3Techs`](https://w3techs.com/technologies/breakdown/ce-httpsdefault/ranking)
-<br>&emsp;  Notes: `Referenced by New York Times`
+</br>&emsp;  Source: [`W3Techs`](https://w3techs.com/technologies/breakdown/ce-httpsdefault/ranking)
+</br>&emsp;  Notes: `Referenced by New York Times`
 ### Morals and Ethics
 
 - Estimated 90% - 95% of all online deepfake videos are nonconsensual porn, 90% of the porn feature women
-<br>&emsp;  Article: `technlogyreview.com` - [`A horrifying new AI app swaps women into porn videos with a click`](https://www.technologyreview.com/2021/09/13/1035449/ai-deepfake-app-face-swaps-women-into-porn/)
-<br>&emsp;  Source: `research company Sensity AI`
-<br>&emsp;  Notes: `IT IS AN ESTIMATION!!`
+</br>&emsp;  Article: `technlogyreview.com` - [`A horrifying new AI app swaps women into porn videos with a click`](https://www.technologyreview.com/2021/09/13/1035449/ai-deepfake-app-face-swaps-women-into-porn/)
+</br>&emsp;  Source: `research company Sensity AI`
+</br>&emsp;  Notes: `IT IS AN ESTIMATION!!`
 
 ### Youth
 
 - Children who used the internet, social media or video games for entertainment ≥4 hours daily were 4x more likely to skip school.
-<br>&emsp;  Source: `Rutgers University analysing China Education Panel Survey`
-<br>&emsp;  Notes: `10000 1st year middle schoolers, mean age = 13.5`
+</br>&emsp;  Source: `Rutgers University analysing China Education Panel Survey`
+</br>&emsp;  Notes: `10000 1st year middle schoolers, mean age = 13.5`
 
 - Boys used interactive technology for entertainment significantly more than girls. Boys also performed worse and showed lower engagement levels than girls
-<br>&emsp;  Source: `Rutgers University analysing China Education Panel Survey`
-<br>&emsp;  Notes: `10000 1st year middle schoolers, mean age = 13.5`
+</br>&emsp;  Source: `Rutgers University analysing China Education Panel Survey`
+</br>&emsp;  Notes: `10000 1st year middle schoolers, mean age = 13.5`
 
 #### Tech Talent Crunch
 
 - 40% of 9 to 12 year olds visit Instagram everyday 
-<br>&emsp;  Article: `New York Times` - [`What’s One of the Most Dangerous Toys for Kids? The Internet`](https://www.nytimes.com/2021/11/24/opinion/kids-internet-safety-social-apps.html?smid=url-share)
+</br>&emsp;  Article: `New York Times` - [`What’s One of the Most Dangerous Toys for Kids? The Internet`](https://www.nytimes.com/2021/11/24/opinion/kids-internet-safety-social-apps.html?smid=url-share)
 
 - 78% of 9 to 12 year olds visit YouTube everyday 
-<br>&emsp;  Article: `New York Times` - [`What’s One of the Most Dangerous Toys for Kids? The Internet`](https://www.nytimes.com/2021/11/24/opinion/kids-internet-safety-social-apps.html?smid=url-share)
+</br>&emsp;  Article: `New York Times` - [`What’s One of the Most Dangerous Toys for Kids? The Internet`](https://www.nytimes.com/2021/11/24/opinion/kids-internet-safety-social-apps.html?smid=url-share)
 
 - Singaporeans accounted for about 35 per cent of tech jobs, and 35 per cent of net tech jobs created in the past five years in banking and finance.
-<br>&emsp;  Article: `NTU Business` - [`What is stopping more Singaporeans from taking up tech jobs?`](https://www.ntu.edu.sg/business/news-events/news/story-detail/what-is-stopping-more-singaporeans-from-taking-up-tech-jobs)
-<br>&emsp;  Source: `Monetary Authority of Singapore (MAS)`
+</br>&emsp;  Article: `NTU Business` - [`What is stopping more Singaporeans from taking up tech jobs?`](https://www.ntu.edu.sg/business/news-events/news/story-detail/what-is-stopping-more-singaporeans-from-taking-up-tech-jobs)
+</br>&emsp;  Source: `Monetary Authority of Singapore (MAS)`
 
 - There appears to be a general lack of students graduating with degrees in Computer Science-related fields, with only 2,800 such graduates every year, compared to the demand of nearly 60,000 needed by 2023, according to Dr Vivian Balakrishnan, Minister-in-charge of the Smart Nation Initiative.
 
@@ -389,7 +390,7 @@ title: Stats and Quotes Notes
 ### Stats
 
 - Women and early-career academics are more likely to feel like impostors in an academic discipline perceived to require raw talent for success.
-<br>&emsp;  Source: `New York University 2021 Study`
+</br>&emsp;  Source: `New York University 2021 Study`
 
 #### Women in Tech
 
@@ -413,3 +414,23 @@ title: Stats and Quotes Notes
 ### Examples
 
 - In the 1994 prison drama, _The Shawshank Redemption_, the life story of an innocent man thrust into prison is shown, spanning nearly 20 years. As we progress through the story, we see him slowly but surely see the cruel injustices faced in prison, with his management of the corrupt warden's ledger. While an offense on its own, its rather ironic for a man as situationally perpetuated to be innocent as the warden to take over the role of a criminal. Unfortunately that is the case.
+
+## China
+
+<!-- ### Definitions -->
+
+### Quotes
+- "The East is rising and the West is declining", as Chinese officials ahave become fond of saying.
+
+<!-- ### Examples -->
+
+### Stats
+- President Xi erased $1.5 trillion in shareholder value by clamping down tech companies
+</br>&emsp;  Article: `The Economist` - [`Rivalry between America and China will shape the post-covid world`](https://www.economist.com/the-world-ahead/2021/11/08/rivalry-between-america-and-china-will-shape-the-post-covid-world)
+
+- China's annual GDP growth could fall to 5%, due to Evergrande crisis and other economic pressures
+</br>&emsp;  Article: `The Economist` - [`Rivalry between America and China will shape the post-covid world`](https://www.economist.com/the-world-ahead/2021/11/08/rivalry-between-america-and-china-will-shape-the-post-covid-world)
+
+## Hybrid Workplaces
+
+## Inequalty
