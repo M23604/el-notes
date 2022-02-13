@@ -275,6 +275,7 @@ title: Stats and Quotes Notes
 - According to research by the Pew Research Centre, 47% of conservatives are likely to see Facebook posts aligned with their own views, as opposed to half that percentage for those who seek the middle ground.
 - Since close to 1.7 billion people of the 7.2 billion people in the world today have active social media accounts, there is a *smorgasbord* of differing opinions online.
 - Naturalistic research indicates that people who had conversations without the presence of a mobile phone felt that these conversations felt higher levels of ‘empathetic concern’, as opposed to those who conversed with the presence of a mobile phone.
+- Some 22% of Italians have stopped using social media in 2021, according to the Digital Consumer Trends Survey 2021 of Deloitte. The three main reasons for abandoning social media are getting tired of the content (35%), the excessive presence of fake news (25%) and concerns over one's privacy (21%), the survey said. Some 73% of those owning a smartphone in Italy used social media platforms or messaging apps on a daily basis in 2021, the report said. Video on demand services rose significantly among the over 65s.
 
 #### Autonomous Vehicles
 
